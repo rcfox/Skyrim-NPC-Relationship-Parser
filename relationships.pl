@@ -26,3 +26,21 @@ for(@relationships_file) {
 		$relationships{$id}{type} = $type;
 	}
 }
+
+print "digraph Relationships {\n";
+
+for my $relid (keys %relationships) {
+	my $alias1 = $relationships{$relid}{alias1};
+	my $alias2 = $relationships{$relid}{alias2};
+	my $name1 = $names{$alias1}{name};
+	my $name2 = $names{$alias2}{name};
+	my $type = $relationships{$relid}{type};
+	my $level = $relationships{$relid}{level};
+
+	print "$alias1 [label=\"$name1\"];\n";
+	print "$alias2 [label=\"$name2\"];\n";
+
+	say "$alias1 -> $alias2 [label=\"$type ($level)\"];\n";
+}
+
+print "}\n";
