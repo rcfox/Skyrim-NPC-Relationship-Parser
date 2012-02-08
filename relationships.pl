@@ -51,7 +51,8 @@ for my $relid (keys %relationships) {
 	print "$alias1 [label=\"$name1\"];\n";
 	print "$alias2 [label=\"$name2\"];\n";
 
-	my $edge = "[label=\"$type\" color=\"$colour\" edgetooltip=\"$name1 -> $name2 ($type)\"]";
+	my $edge = "[label=\"$type\" color=\"$colour\" edgetooltip=\"$name1 -> $name2 ($type, $level)\"]";
+	$edge = "[color=\"$colour\" edgetooltip=\"$name1 -> $name2 ($level)\"]" if ($type ~~ "NONE");
 
 	say "$alias1 -> $alias2 $edge;\n";
 }
