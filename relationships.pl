@@ -10,6 +10,16 @@ my @relationships_file = read_file($ARGV[1]);
 my %names;
 my %relationships;
 
+my %relationship_colours = (Lover => 'forestgreen',
+                            Ally => 'green',
+                            Confidant => 'lime',
+                            Friend => 'olive',
+                            Acquaintance => 'orange',
+                            Rival => 'orangered',
+                            Foe => 'firebrick',
+                            Enemy => 'red',
+                            Archnemesis => 'darkred');
+
 for(@names_file) {
 	if(/FormID: (.*?)\t\s*(.*?)\t\s*(.*?)\t\s*(.*)/) {
 		my($id,$alias,$type,$fullname) = ($1,$2,$3,$4);
@@ -36,11 +46,14 @@ for my $relid (keys %relationships) {
 	my $name2 = $names{$alias2}{name};
 	my $type = $relationships{$relid}{type};
 	my $level = $relationships{$relid}{level};
+	my $colour = $relationship_colours{$level};
 
 	print "$alias1 [label=\"$name1\"];\n";
 	print "$alias2 [label=\"$name2\"];\n";
 
-	say "$alias1 -> $alias2 [label=\"$type ($level)\"];\n";
+	my $edge = "[label=\"$type\" color=\"$colour\" edgetooltip=\"$name1 -> $name2 ($type)\"]";
+
+	say "$alias1 -> $alias2 $edge;\n";
 }
 
 print "}\n";
