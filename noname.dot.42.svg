@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 169,-134 169,5 -4,5"/>
 <!-- SyndaLlanith -->
 <g id="node1" class="node"><title>SyndaLlanith</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Synda Llanith" xlink:title="Synda Llanith">
 <ellipse fill="none" stroke="black" cx="82" cy="-111" rx="79.196" ry="18.3848"/>
 <text text-anchor="middle" x="82" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Synda Llanith</text>
+</a>
 </g>
 <!-- Dravin -->
 <g id="node2" class="node"><title>Dravin</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Dravin Llanith" xlink:title="Dravin Llanith">
 <ellipse fill="none" stroke="black" cx="82" cy="-19" rx="82.0244" ry="18.3848"/>
 <text text-anchor="middle" x="82" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Dravin Llanith</text>
+</a>
 </g>
 <!-- SyndaLlanith&#45;&gt;Dravin -->
 <g id="edge2" class="edge"><title>SyndaLlanith&#45;&gt;Dravin</title>

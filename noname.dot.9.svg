@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-590 579,-590 579,5 -4,5"/>
 <!-- Astrid -->
 <g id="node1" class="node"><title>Astrid</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Astrid" xlink:title="Astrid">
 <ellipse fill="none" stroke="black" cx="218" cy="-567" rx="39.8075" ry="18.3848"/>
 <text text-anchor="middle" x="218" y="-563.4" font-family="Times Roman,serif" font-size="14.00">Astrid</text>
+</a>
 </g>
 <!-- Arnbjorn -->
 <g id="node2" class="node"><title>Arnbjorn</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Arnbjorn" xlink:title="Arnbjorn">
 <ellipse fill="none" stroke="black" cx="274" cy="-19" rx="53.9477" ry="18.3848"/>
 <text text-anchor="middle" x="274" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Arnbjorn</text>
+</a>
 </g>
 <!-- Astrid&#45;&gt;Arnbjorn -->
 <g id="edge2" class="edge"><title>Astrid&#45;&gt;Arnbjorn</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Babette -->
 <g id="node4" class="node"><title>Babette</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Babette" xlink:title="Babette">
 <ellipse fill="none" stroke="black" cx="181" cy="-247" rx="50.2046" ry="18.3848"/>
 <text text-anchor="middle" x="181" y="-243.4" font-family="Times Roman,serif" font-size="14.00">Babette</text>
+</a>
 </g>
 <!-- Astrid&#45;&gt;Babette -->
 <g id="edge4" class="edge"><title>Astrid&#45;&gt;Babette</title>
@@ -41,8 +47,10 @@
 </g>
 <!-- Gabriella -->
 <g id="node6" class="node"><title>Gabriella</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Gabriella" xlink:title="Gabriella">
 <ellipse fill="none" stroke="black" cx="225" cy="-339" rx="55.1543" ry="18.3848"/>
 <text text-anchor="middle" x="225" y="-335.4" font-family="Times Roman,serif" font-size="14.00">Gabriella</text>
+</a>
 </g>
 <!-- Astrid&#45;&gt;Gabriella -->
 <g id="edge6" class="edge"><title>Astrid&#45;&gt;Gabriella</title>
@@ -53,8 +61,10 @@
 </g>
 <!-- Veezara -->
 <g id="node8" class="node"><title>Veezara</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Veezara" xlink:title="Veezara">
 <ellipse fill="none" stroke="black" cx="274" cy="-95" rx="51.1176" ry="18.3848"/>
 <text text-anchor="middle" x="274" y="-91.4" font-family="Times Roman,serif" font-size="14.00">Veezara</text>
+</a>
 </g>
 <!-- Astrid&#45;&gt;Veezara -->
 <g id="edge8" class="edge"><title>Astrid&#45;&gt;Veezara</title>
@@ -65,8 +75,10 @@
 </g>
 <!-- Nazir -->
 <g id="node10" class="node"><title>Nazir</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Nazir" xlink:title="Nazir">
 <ellipse fill="none" stroke="black" cx="423" cy="-415" rx="36.977" ry="18.3848"/>
 <text text-anchor="middle" x="423" y="-411.4" font-family="Times Roman,serif" font-size="14.00">Nazir</text>
+</a>
 </g>
 <!-- Astrid&#45;&gt;Nazir -->
 <g id="edge10" class="edge"><title>Astrid&#45;&gt;Nazir</title>
@@ -77,8 +89,10 @@
 </g>
 <!-- FestusKrex -->
 <g id="node12" class="node"><title>FestusKrex</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Festus Krex" xlink:title="Festus Krex">
 <ellipse fill="none" stroke="black" cx="314" cy="-491" rx="68.0887" ry="18.3848"/>
 <text text-anchor="middle" x="314" y="-487.4" font-family="Times Roman,serif" font-size="14.00">Festus Krex</text>
+</a>
 </g>
 <!-- Astrid&#45;&gt;FestusKrex -->
 <g id="edge12" class="edge"><title>Astrid&#45;&gt;FestusKrex</title>
@@ -103,8 +117,10 @@
 </g>
 <!-- Cicero -->
 <g id="node15" class="node"><title>Cicero</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Cicero" xlink:title="Cicero">
 <ellipse fill="none" stroke="black" cx="366" cy="-171" rx="41.2167" ry="18.3848"/>
 <text text-anchor="middle" x="366" y="-167.4" font-family="Times Roman,serif" font-size="14.00">Cicero</text>
+</a>
 </g>
 <!-- Babette&#45;&gt;Cicero -->
 <g id="edge16" class="edge"><title>Babette&#45;&gt;Cicero</title>

@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 103,-134 103,5 -4,5"/>
 <!-- Rustleif -->
 <g id="node1" class="node"><title>Rustleif</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Rustleif" xlink:title="Rustleif">
 <ellipse fill="none" stroke="black" cx="48" cy="-111" rx="48.0833" ry="18.3848"/>
 <text text-anchor="middle" x="48" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Rustleif</text>
+</a>
 </g>
 <!-- Seren -->
 <g id="node2" class="node"><title>Seren</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Seren" xlink:title="Seren">
 <ellipse fill="none" stroke="black" cx="48" cy="-19" rx="39.8075" ry="18.3848"/>
 <text text-anchor="middle" x="48" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Seren</text>
+</a>
 </g>
 <!-- Rustleif&#45;&gt;Seren -->
 <g id="edge2" class="edge"><title>Rustleif&#45;&gt;Seren</title>

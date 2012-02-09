@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-116 89,-116 89,5 -4,5"/>
 <!-- Perth -->
 <g id="node1" class="node"><title>Perth</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Perth" xlink:title="Perth">
 <ellipse fill="none" stroke="black" cx="42" cy="-93" rx="38.1838" ry="18.3848"/>
 <text text-anchor="middle" x="42" y="-89.4" font-family="Times Roman,serif" font-size="14.00">Perth</text>
+</a>
 </g>
 <!-- Tuthul -->
 <g id="node2" class="node"><title>Tuthul</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Tuthul" xlink:title="Tuthul">
 <ellipse fill="none" stroke="black" cx="42" cy="-19" rx="41.9273" ry="18.3848"/>
 <text text-anchor="middle" x="42" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Tuthul</text>
+</a>
 </g>
 <!-- Perth&#45;&gt;Tuthul -->
 <g id="edge2" class="edge"><title>Perth&#45;&gt;Tuthul</title>

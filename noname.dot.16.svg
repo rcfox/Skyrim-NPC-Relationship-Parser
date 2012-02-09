@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-318 674,-318 674,5 -4,5"/>
 <!-- Kodrir -->
 <g id="node1" class="node"><title>Kodrir</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Kodrir" xlink:title="Kodrir">
 <ellipse fill="none" stroke="black" cx="117" cy="-111" rx="39.8075" ry="18.3848"/>
 <text text-anchor="middle" x="117" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Kodrir</text>
+</a>
 </g>
 <!-- Leifur -->
 <g id="node2" class="node"><title>Leifur</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Leifur" xlink:title="Leifur">
 <ellipse fill="none" stroke="black" cx="39" cy="-19" rx="39.0967" ry="18.3848"/>
 <text text-anchor="middle" x="39" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Leifur</text>
+</a>
 </g>
 <!-- Kodrir&#45;&gt;Leifur -->
 <g id="edge2" class="edge"><title>Kodrir&#45;&gt;Leifur</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Aeri -->
 <g id="node4" class="node"><title>Aeri</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Aeri" xlink:title="Aeri">
 <ellipse fill="none" stroke="black" cx="177" cy="-295" rx="31.1127" ry="18.3848"/>
 <text text-anchor="middle" x="177" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Aeri</text>
+</a>
 </g>
 <!-- Aeri&#45;&gt;Kodrir -->
 <g id="edge4" class="edge"><title>Aeri&#45;&gt;Kodrir</title>
@@ -50,8 +56,10 @@
 </g>
 <!-- SkaldtheElder -->
 <g id="node7" class="node"><title>SkaldtheElder</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Skald" xlink:title="Skald">
 <ellipse fill="none" stroke="black" cx="470" cy="-203" rx="38.1838" ry="18.3848"/>
 <text text-anchor="middle" x="470" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Skald</text>
+</a>
 </g>
 <!-- Aeri&#45;&gt;SkaldtheElder -->
 <g id="edge8" class="edge"><title>Aeri&#45;&gt;SkaldtheElder</title>
@@ -63,8 +71,10 @@
 </g>
 <!-- EnnodiusPapius -->
 <g id="node9" class="node"><title>EnnodiusPapius</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Ennodius Papius" xlink:title="Ennodius Papius">
 <ellipse fill="none" stroke="black" cx="324" cy="-203" rx="90.0096" ry="18.3848"/>
 <text text-anchor="middle" x="324" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Ennodius Papius</text>
+</a>
 </g>
 <!-- Aeri&#45;&gt;EnnodiusPapius -->
 <g id="edge10" class="edge"><title>Aeri&#45;&gt;EnnodiusPapius</title>
@@ -76,8 +86,10 @@
 </g>
 <!-- Jod -->
 <g id="node11" class="node"><title>Jod</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Jod" xlink:title="Jod">
 <ellipse fill="none" stroke="black" cx="570" cy="-111" rx="27" ry="18.3848"/>
 <text text-anchor="middle" x="570" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Jod</text>
+</a>
 </g>
 <!-- SkaldtheElder&#45;&gt;Jod -->
 <g id="edge12" class="edge"><title>SkaldtheElder&#45;&gt;Jod</title>
@@ -89,8 +101,10 @@
 </g>
 <!-- Madena -->
 <g id="node13" class="node"><title>Madena</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Madena" xlink:title="Madena">
 <ellipse fill="none" stroke="black" cx="395" cy="-111" rx="50.2046" ry="18.3848"/>
 <text text-anchor="middle" x="395" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Madena</text>
+</a>
 </g>
 <!-- SkaldtheElder&#45;&gt;Madena -->
 <g id="edge14" class="edge"><title>SkaldtheElder&#45;&gt;Madena</title>
@@ -109,8 +123,10 @@
 </g>
 <!-- Bulfrek -->
 <g id="node16" class="node"><title>Bulfrek</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Bulfrek" xlink:title="Bulfrek">
 <ellipse fill="none" stroke="black" cx="623" cy="-203" rx="46.1672" ry="18.3848"/>
 <text text-anchor="middle" x="623" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Bulfrek</text>
+</a>
 </g>
 <!-- Bulfrek&#45;&gt;Jod -->
 <g id="edge18" class="edge"><title>Bulfrek&#45;&gt;Jod</title>

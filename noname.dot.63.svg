@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 201,-134 201,5 -4,5"/>
 <!-- CommanderMaro -->
 <g id="node1" class="node"><title>CommanderMaro</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Commander Maro" xlink:title="Commander Maro">
 <ellipse fill="none" stroke="black" cx="98" cy="-111" rx="97.7889" ry="18.3848"/>
 <text text-anchor="middle" x="98" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Commander Maro</text>
+</a>
 </g>
 <!-- GaiusMaro -->
 <g id="node2" class="node"><title>GaiusMaro</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Gaius Maro" xlink:title="Gaius Maro">
 <ellipse fill="none" stroke="black" cx="98" cy="-19" rx="67.1751" ry="18.3848"/>
 <text text-anchor="middle" x="98" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Gaius Maro</text>
+</a>
 </g>
 <!-- CommanderMaro&#45;&gt;GaiusMaro -->
 <g id="edge2" class="edge"><title>CommanderMaro&#45;&gt;GaiusMaro</title>

@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-210 159,-210 159,5 -4,5"/>
 <!-- Torom -->
 <g id="node1" class="node"><title>Torom</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Torom" xlink:title="Torom">
 <ellipse fill="none" stroke="black" cx="41" cy="-187" rx="41.2167" ry="18.3848"/>
 <text text-anchor="middle" x="41" y="-183.4" font-family="Times Roman,serif" font-size="14.00">Torom</text>
+</a>
 </g>
 <!-- Erith -->
 <g id="node2" class="node"><title>Erith</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Erith" xlink:title="Erith">
 <ellipse fill="none" stroke="black" cx="43" cy="-19" rx="34.8574" ry="18.3848"/>
 <text text-anchor="middle" x="43" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Erith</text>
+</a>
 </g>
 <!-- Torom&#45;&gt;Erith -->
 <g id="edge2" class="edge"><title>Torom&#45;&gt;Erith</title>
@@ -28,8 +32,10 @@
 </g>
 <!-- Daighre -->
 <g id="node4" class="node"><title>Daighre</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Daighre" xlink:title="Daighre">
 <ellipse fill="none" stroke="black" cx="94" cy="-111" rx="50.2046" ry="18.3848"/>
 <text text-anchor="middle" x="94" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Daighre</text>
+</a>
 </g>
 <!-- Torom&#45;&gt;Daighre -->
 <g id="edge4" class="edge"><title>Torom&#45;&gt;Daighre</title>

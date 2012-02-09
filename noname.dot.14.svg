@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-226 211,-226 211,5 -4,5"/>
 <!-- Kerah -->
 <g id="node1" class="node"><title>Kerah</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Kerah" xlink:title="Kerah">
 <ellipse fill="none" stroke="black" cx="39" cy="-111" rx="39.0967" ry="18.3848"/>
 <text text-anchor="middle" x="39" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Kerah</text>
+</a>
 </g>
 <!-- Adara -->
 <g id="node2" class="node"><title>Adara</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Adara" xlink:title="Adara">
 <ellipse fill="none" stroke="black" cx="79" cy="-19" rx="39.8075" ry="18.3848"/>
 <text text-anchor="middle" x="79" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Adara</text>
+</a>
 </g>
 <!-- Kerah&#45;&gt;Adara -->
 <g id="edge2" class="edge"><title>Kerah&#45;&gt;Adara</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Endon -->
 <g id="node4" class="node"><title>Endon</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Endon" xlink:title="Endon">
 <ellipse fill="none" stroke="black" cx="87" cy="-203" rx="41.9273" ry="18.3848"/>
 <text text-anchor="middle" x="87" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Endon</text>
+</a>
 </g>
 <!-- Endon&#45;&gt;Kerah -->
 <g id="edge4" class="edge"><title>Endon&#45;&gt;Kerah</title>

@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-190 100,-190 100,5 -4,5"/>
 <!-- Erdi -->
 <g id="node1" class="node"><title>Erdi</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Erdi" xlink:title="Erdi">
 <ellipse fill="none" stroke="black" cx="31" cy="-93" rx="31.1127" ry="18.3848"/>
 <text text-anchor="middle" x="31" y="-89.4" font-family="Times Roman,serif" font-size="14.00">Erdi</text>
+</a>
 </g>
 <!-- Una -->
 <g id="node2" class="node"><title>Una</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Una" xlink:title="Una">
 <ellipse fill="none" stroke="black" cx="60" cy="-19" rx="31.1127" ry="18.3848"/>
 <text text-anchor="middle" x="60" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Una</text>
+</a>
 </g>
 <!-- Erdi&#45;&gt;Una -->
 <g id="edge2" class="edge"><title>Erdi&#45;&gt;Una</title>
@@ -28,8 +32,10 @@
 </g>
 <!-- Odar -->
 <g id="node4" class="node"><title>Odar</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Odar" xlink:title="Odar">
 <ellipse fill="none" stroke="black" cx="60" cy="-167" rx="34.8574" ry="18.3848"/>
 <text text-anchor="middle" x="60" y="-163.4" font-family="Times Roman,serif" font-size="14.00">Odar</text>
+</a>
 </g>
 <!-- Odar&#45;&gt;Erdi -->
 <g id="edge4" class="edge"><title>Odar&#45;&gt;Erdi</title>

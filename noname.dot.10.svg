@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 213,-134 213,5 -4,5"/>
 <!-- MulGroLargash -->
 <g id="node1" class="node"><title>MulGroLargash</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Mul gro-Largash" xlink:title="Mul gro&#45;Largash">
 <ellipse fill="none" stroke="black" cx="104" cy="-111" rx="90.0096" ry="18.3848"/>
 <text text-anchor="middle" x="104" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Mul gro&#45;Largash</text>
+</a>
 </g>
 <!-- GadbaGroLargash -->
 <g id="node2" class="node"><title>GadbaGroLargash</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Gadba gro-Largash" xlink:title="Gadba gro&#45;Largash">
 <ellipse fill="none" stroke="black" cx="104" cy="-19" rx="104.151" ry="18.3848"/>
 <text text-anchor="middle" x="104" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Gadba gro&#45;Largash</text>
+</a>
 </g>
 <!-- MulGroLargash&#45;&gt;GadbaGroLargash -->
 <g id="edge2" class="edge"><title>MulGroLargash&#45;&gt;GadbaGroLargash</title>

@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 301,-134 301,5 -4,5"/>
 <!-- Skaggi -->
 <g id="node1" class="node"><title>Skaggi</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Skaggi Scar-Face" xlink:title="Skaggi Scar&#45;Face">
 <ellipse fill="none" stroke="black" cx="155" cy="-111" rx="92.1303" ry="18.3848"/>
 <text text-anchor="middle" x="155" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Skaggi Scar&#45;Face</text>
+</a>
 </g>
 <!-- Sosia -->
 <g id="node2" class="node"><title>Sosia</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Sosia Tremellia" xlink:title="Sosia Tremellia">
 <ellipse fill="none" stroke="black" cx="84" cy="-19" rx="84.1457" ry="18.3848"/>
 <text text-anchor="middle" x="84" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Sosia Tremellia</text>
+</a>
 </g>
 <!-- Skaggi&#45;&gt;Sosia -->
 <g id="edge2" class="edge"><title>Skaggi&#45;&gt;Sosia</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Ennoc -->
 <g id="node4" class="node"><title>Ennoc</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Ennoc" xlink:title="Ennoc">
 <ellipse fill="none" stroke="black" cx="227" cy="-19" rx="41.2167" ry="18.3848"/>
 <text text-anchor="middle" x="227" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Ennoc</text>
+</a>
 </g>
 <!-- Skaggi&#45;&gt;Ennoc -->
 <g id="edge4" class="edge"><title>Skaggi&#45;&gt;Ennoc</title>

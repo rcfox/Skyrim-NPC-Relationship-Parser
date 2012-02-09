@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-116 173,-116 173,5 -4,5"/>
 <!-- HorikHalfhand -->
 <g id="node1" class="node"><title>HorikHalfhand</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Horik Halfhand" xlink:title="Horik Halfhand">
 <ellipse fill="none" stroke="black" cx="84" cy="-93" rx="84.1457" ry="18.3848"/>
 <text text-anchor="middle" x="84" y="-89.4" font-family="Times Roman,serif" font-size="14.00">Horik Halfhand</text>
+</a>
 </g>
 <!-- BrinaMerilis -->
 <g id="node2" class="node"><title>BrinaMerilis</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Brina Merilis" xlink:title="Brina Merilis">
 <ellipse fill="none" stroke="black" cx="84" cy="-19" rx="72.1249" ry="18.3848"/>
 <text text-anchor="middle" x="84" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Brina Merilis</text>
+</a>
 </g>
 <!-- HorikHalfhand&#45;&gt;BrinaMerilis -->
 <g id="edge2" class="edge"><title>HorikHalfhand&#45;&gt;BrinaMerilis</title>

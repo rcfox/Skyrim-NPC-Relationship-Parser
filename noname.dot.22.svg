@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-226 219,-226 219,5 -4,5"/>
 <!-- SkulvarSableHilt -->
 <g id="node1" class="node"><title>SkulvarSableHilt</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Skulvar Sable-Hilt" xlink:title="Skulvar Sable&#45;Hilt">
 <ellipse fill="none" stroke="black" cx="107" cy="-111" rx="98.9949" ry="18.3848"/>
 <text text-anchor="middle" x="107" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Skulvar Sable&#45;Hilt</text>
+</a>
 </g>
 <!-- Jervar -->
 <g id="node2" class="node"><title>Jervar</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Jervar" xlink:title="Jervar">
 <ellipse fill="none" stroke="black" cx="107" cy="-19" rx="41.0122" ry="18.3848"/>
 <text text-anchor="middle" x="107" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Jervar</text>
+</a>
 </g>
 <!-- SkulvarSableHilt&#45;&gt;Jervar -->
 <g id="edge2" class="edge"><title>SkulvarSableHilt&#45;&gt;Jervar</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- LillithMaidenLoom -->
 <g id="node4" class="node"><title>LillithMaidenLoom</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Lillith Maiden-Loom" xlink:title="Lillith Maiden&#45;Loom">
 <ellipse fill="none" stroke="black" cx="107" cy="-203" rx="106.98" ry="18.3848"/>
 <text text-anchor="middle" x="107" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Lillith Maiden&#45;Loom</text>
+</a>
 </g>
 <!-- LillithMaidenLoom&#45;&gt;SkulvarSableHilt -->
 <g id="edge4" class="edge"><title>LillithMaidenLoom&#45;&gt;SkulvarSableHilt</title>

@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-226 191.808,-226 191.808,5 -4,5"/>
 <!-- Katla -->
 <g id="node1" class="node"><title>Katla</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Katla" xlink:title="Katla">
 <ellipse fill="none" stroke="black" cx="37.808" cy="-203" rx="36.7696" ry="18.3848"/>
 <text text-anchor="middle" x="37.808" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Katla</text>
+</a>
 </g>
 <!-- Knud -->
 <g id="node2" class="node"><title>Knud</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Knud" xlink:title="Knud">
 <ellipse fill="none" stroke="black" cx="37.808" cy="-19" rx="36.7696" ry="18.3848"/>
 <text text-anchor="middle" x="37.808" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Knud</text>
+</a>
 </g>
 <!-- Katla&#45;&gt;Knud -->
 <g id="edge2" class="edge"><title>Katla&#45;&gt;Knud</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Snilling -->
 <g id="node4" class="node"><title>Snilling</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Snilling" xlink:title="Snilling">
 <ellipse fill="none" stroke="black" cx="139.808" cy="-111" rx="46.8775" ry="18.3848"/>
 <text text-anchor="middle" x="139.808" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Snilling</text>
+</a>
 </g>
 <!-- Katla&#45;&gt;Snilling -->
 <g id="edge4" class="edge"><title>Katla&#45;&gt;Snilling</title>

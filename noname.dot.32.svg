@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-226 213.973,-226 213.973,5 -4,5"/>
 <!-- Horgeir -->
 <g id="node1" class="node"><title>Horgeir</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Horgeir" xlink:title="Horgeir">
 <ellipse fill="none" stroke="black" cx="76.9728" cy="-203" rx="48.0833" ry="18.3848"/>
 <text text-anchor="middle" x="76.9728" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Horgeir</text>
+</a>
 </g>
 <!-- Olda -->
 <g id="node2" class="node"><title>Olda</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Olda" xlink:title="Olda">
 <ellipse fill="none" stroke="black" cx="42.9728" cy="-111" rx="33.9411" ry="18.3848"/>
 <text text-anchor="middle" x="42.9728" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Olda</text>
+</a>
 </g>
 <!-- Horgeir&#45;&gt;Olda -->
 <g id="edge2" class="edge"><title>Horgeir&#45;&gt;Olda</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Lodvar -->
 <g id="node4" class="node"><title>Lodvar</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Lodvar" xlink:title="Lodvar">
 <ellipse fill="none" stroke="black" cx="108.973" cy="-19" rx="44.7575" ry="18.3848"/>
 <text text-anchor="middle" x="108.973" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Lodvar</text>
+</a>
 </g>
 <!-- Horgeir&#45;&gt;Lodvar -->
 <g id="edge4" class="edge"><title>Horgeir&#45;&gt;Lodvar</title>

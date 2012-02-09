@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 607,-134 607,5 -4,5"/>
 <!-- Indaryn -->
 <g id="node1" class="node"><title>Indaryn</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Indaryn" xlink:title="Indaryn">
 <ellipse fill="none" stroke="black" cx="325" cy="-111" rx="48.9975" ry="18.3848"/>
 <text text-anchor="middle" x="325" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Indaryn</text>
+</a>
 </g>
 <!-- Romlyn -->
 <g id="node2" class="node"><title>Romlyn</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Romlyn Dreth" xlink:title="Romlyn Dreth">
 <ellipse fill="none" stroke="black" cx="80" cy="-19" rx="79.9031" ry="18.3848"/>
 <text text-anchor="middle" x="80" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Romlyn Dreth</text>
+</a>
 </g>
 <!-- Indaryn&#45;&gt;Romlyn -->
 <g id="edge2" class="edge"><title>Indaryn&#45;&gt;Romlyn</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Niluva -->
 <g id="node4" class="node"><title>Niluva</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Niluva Hlaalu" xlink:title="Niluva Hlaalu">
 <ellipse fill="none" stroke="black" cx="254" cy="-19" rx="75.8684" ry="18.3848"/>
 <text text-anchor="middle" x="254" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Niluva Hlaalu</text>
+</a>
 </g>
 <!-- Indaryn&#45;&gt;Niluva -->
 <g id="edge4" class="edge"><title>Indaryn&#45;&gt;Niluva</title>
@@ -42,8 +48,10 @@
 </g>
 <!-- Valindor -->
 <g id="node6" class="node"><title>Valindor</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Valindor" xlink:title="Valindor">
 <ellipse fill="none" stroke="black" cx="399" cy="-19" rx="51.1176" ry="18.3848"/>
 <text text-anchor="middle" x="399" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Valindor</text>
+</a>
 </g>
 <!-- Indaryn&#45;&gt;Valindor -->
 <g id="edge6" class="edge"><title>Indaryn&#45;&gt;Valindor</title>
@@ -55,8 +63,10 @@
 </g>
 <!-- Ungrien -->
 <g id="node8" class="node"><title>Ungrien</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Ungrien" xlink:title="Ungrien">
 <ellipse fill="none" stroke="black" cx="519" cy="-19" rx="50.2046" ry="18.3848"/>
 <text text-anchor="middle" x="519" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Ungrien</text>
+</a>
 </g>
 <!-- Indaryn&#45;&gt;Ungrien -->
 <g id="edge8" class="edge"><title>Indaryn&#45;&gt;Ungrien</title>

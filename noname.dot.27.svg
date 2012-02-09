@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-210 323,-210 323,5 -4,5"/>
 <!-- Wilhelm -->
 <g id="node1" class="node"><title>Wilhelm</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Wilhelm" xlink:title="Wilhelm">
 <ellipse fill="none" stroke="black" cx="51" cy="-95" rx="51.1176" ry="18.3848"/>
 <text text-anchor="middle" x="51" y="-91.4" font-family="Times Roman,serif" font-size="14.00">Wilhelm</text>
+</a>
 </g>
 <!-- Lynly -->
 <g id="node2" class="node"><title>Lynly</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Lynly Star-Sung" xlink:title="Lynly Star&#45;Sung">
 <ellipse fill="none" stroke="black" cx="99" cy="-19" rx="89.0955" ry="18.3848"/>
 <text text-anchor="middle" x="99" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Lynly Star&#45;Sung</text>
+</a>
 </g>
 <!-- Wilhelm&#45;&gt;Lynly -->
 <g id="edge2" class="edge"><title>Wilhelm&#45;&gt;Lynly</title>
@@ -28,13 +32,17 @@
 </g>
 <!-- Drifa -->
 <g id="node4" class="node"><title>Drifa</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Drifa" xlink:title="Drifa">
 <ellipse fill="none" stroke="black" cx="219" cy="-187" rx="34.8574" ry="18.3848"/>
 <text text-anchor="middle" x="219" y="-183.4" font-family="Times Roman,serif" font-size="14.00">Drifa</text>
+</a>
 </g>
 <!-- Bersi -->
 <g id="node5" class="node"><title>Bersi</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Bersi Honey-Hand" xlink:title="Bersi Honey&#45;Hand">
 <ellipse fill="none" stroke="black" cx="219" cy="-95" rx="99.201" ry="18.3848"/>
 <text text-anchor="middle" x="219" y="-91.4" font-family="Times Roman,serif" font-size="14.00">Bersi Honey&#45;Hand</text>
+</a>
 </g>
 <!-- Drifa&#45;&gt;Bersi -->
 <g id="edge4" class="edge"><title>Drifa&#45;&gt;Bersi</title>

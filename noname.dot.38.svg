@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-226 237,-226 237,5 -4,5"/>
 <!-- Sorli -->
 <g id="node1" class="node"><title>Sorli</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Sorli the Builder" xlink:title="Sorli the Builder">
 <ellipse fill="none" stroke="black" cx="90" cy="-203" rx="90.0096" ry="18.3848"/>
 <text text-anchor="middle" x="90" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Sorli the Builder</text>
+</a>
 </g>
 <!-- Sirgar -->
 <g id="node2" class="node"><title>Sirgar</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Sirgar" xlink:title="Sirgar">
 <ellipse fill="none" stroke="black" cx="90" cy="-19" rx="41.0122" ry="18.3848"/>
 <text text-anchor="middle" x="90" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Sirgar</text>
+</a>
 </g>
 <!-- Sorli&#45;&gt;Sirgar -->
 <g id="edge2" class="edge"><title>Sorli&#45;&gt;Sirgar</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Pactur -->
 <g id="node4" class="node"><title>Pactur</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Pactur" xlink:title="Pactur">
 <ellipse fill="none" stroke="black" cx="189" cy="-111" rx="43.1335" ry="18.3848"/>
 <text text-anchor="middle" x="189" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Pactur</text>
+</a>
 </g>
 <!-- Sorli&#45;&gt;Pactur -->
 <g id="edge4" class="edge"><title>Sorli&#45;&gt;Pactur</title>

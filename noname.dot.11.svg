@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-210 144,-210 144,5 -4,5"/>
 <!-- Jorgen -->
 <g id="node1" class="node"><title>Jorgen</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Jorgen" xlink:title="Jorgen">
 <ellipse fill="none" stroke="black" cx="58" cy="-187" rx="43.1335" ry="18.3848"/>
 <text text-anchor="middle" x="58" y="-183.4" font-family="Times Roman,serif" font-size="14.00">Jorgen</text>
+</a>
 </g>
 <!-- Thonnir -->
 <g id="node2" class="node"><title>Thonnir</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Thonnir" xlink:title="Thonnir">
 <ellipse fill="none" stroke="black" cx="58" cy="-111" rx="50.2046" ry="18.3848"/>
 <text text-anchor="middle" x="58" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Thonnir</text>
+</a>
 </g>
 <!-- Jorgen&#45;&gt;Thonnir -->
 <g id="edge2" class="edge"><title>Jorgen&#45;&gt;Thonnir</title>
@@ -28,8 +32,10 @@
 </g>
 <!-- Virkmund -->
 <g id="node4" class="node"><title>Virkmund</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Virkmund" xlink:title="Virkmund">
 <ellipse fill="none" stroke="black" cx="58" cy="-19" rx="58.1882" ry="18.3848"/>
 <text text-anchor="middle" x="58" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Virkmund</text>
+</a>
 </g>
 <!-- Thonnir&#45;&gt;Virkmund -->
 <g id="edge4" class="edge"><title>Thonnir&#45;&gt;Virkmund</title>

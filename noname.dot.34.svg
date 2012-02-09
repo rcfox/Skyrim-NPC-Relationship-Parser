@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 123,-134 123,5 -4,5"/>
 <!-- Eydis -->
 <g id="node1" class="node"><title>Eydis</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Eydis" xlink:title="Eydis">
 <ellipse fill="none" stroke="black" cx="37" cy="-111" rx="36.977" ry="18.3848"/>
 <text text-anchor="middle" x="37" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Eydis</text>
+</a>
 </g>
 <!-- Skuli -->
 <g id="node2" class="node"><title>Skuli</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Skuli" xlink:title="Skuli">
 <ellipse fill="none" stroke="black" cx="37" cy="-19" rx="34.8574" ry="18.3848"/>
 <text text-anchor="middle" x="37" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Skuli</text>
+</a>
 </g>
 <!-- Eydis&#45;&gt;Skuli -->
 <g id="edge2" class="edge"><title>Eydis&#45;&gt;Skuli</title>

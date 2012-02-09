@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-378 306,-378 306,5 -4,5"/>
 <!-- Jofthor -->
 <g id="node1" class="node"><title>Jofthor</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Jofthor" xlink:title="Jofthor">
 <ellipse fill="none" stroke="black" cx="201" cy="-355" rx="44.0472" ry="18.3848"/>
 <text text-anchor="middle" x="201" y="-351.4" font-family="Times Roman,serif" font-size="14.00">Jofthor</text>
+</a>
 </g>
 <!-- Boti -->
 <g id="node2" class="node"><title>Boti</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Boti" xlink:title="Boti">
 <ellipse fill="none" stroke="black" cx="138" cy="-263" rx="31.1127" ry="18.3848"/>
 <text text-anchor="middle" x="138" y="-259.4" font-family="Times Roman,serif" font-size="14.00">Boti</text>
+</a>
 </g>
 <!-- Jofthor&#45;&gt;Boti -->
 <g id="edge2" class="edge"><title>Jofthor&#45;&gt;Boti</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Fastred -->
 <g id="node4" class="node"><title>Fastred</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Fastred" xlink:title="Fastred">
 <ellipse fill="none" stroke="black" cx="178" cy="-171" rx="46.8775" ry="18.3848"/>
 <text text-anchor="middle" x="178" y="-167.4" font-family="Times Roman,serif" font-size="14.00">Fastred</text>
+</a>
 </g>
 <!-- Jofthor&#45;&gt;Fastred -->
 <g id="edge4" class="edge"><title>Jofthor&#45;&gt;Fastred</title>
@@ -50,8 +56,10 @@
 </g>
 <!-- BassianusAxius -->
 <g id="node7" class="node"><title>BassianusAxius</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Bassianus Axius" xlink:title="Bassianus Axius">
 <ellipse fill="none" stroke="black" cx="90" cy="-95" rx="89.8026" ry="18.3848"/>
 <text text-anchor="middle" x="90" y="-91.4" font-family="Times Roman,serif" font-size="14.00">Bassianus Axius</text>
+</a>
 </g>
 <!-- Fastred&#45;&gt;BassianusAxius -->
 <g id="edge8" class="edge"><title>Fastred&#45;&gt;BassianusAxius</title>
@@ -62,8 +70,10 @@
 </g>
 <!-- Klimmek -->
 <g id="node9" class="node"><title>Klimmek</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Klimmek" xlink:title="Klimmek">
 <ellipse fill="none" stroke="black" cx="172" cy="-19" rx="53.033" ry="18.3848"/>
 <text text-anchor="middle" x="172" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Klimmek</text>
+</a>
 </g>
 <!-- Fastred&#45;&gt;Klimmek -->
 <g id="edge10" class="edge"><title>Fastred&#45;&gt;Klimmek</title>

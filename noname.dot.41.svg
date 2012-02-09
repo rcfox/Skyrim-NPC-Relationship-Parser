@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 132,-134 132,5 -4,5"/>
 <!-- Reldith -->
 <g id="node1" class="node"><title>Reldith</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Reldith" xlink:title="Reldith">
 <ellipse fill="none" stroke="black" cx="46" cy="-111" rx="45.9619" ry="18.3848"/>
 <text text-anchor="middle" x="46" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Reldith</text>
+</a>
 </g>
 <!-- Ennis -->
 <g id="node2" class="node"><title>Ennis</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Ennis" xlink:title="Ennis">
 <ellipse fill="none" stroke="black" cx="46" cy="-19" rx="38.1838" ry="18.3848"/>
 <text text-anchor="middle" x="46" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Ennis</text>
+</a>
 </g>
 <!-- Reldith&#45;&gt;Ennis -->
 <g id="edge2" class="edge"><title>Reldith&#45;&gt;Ennis</title>

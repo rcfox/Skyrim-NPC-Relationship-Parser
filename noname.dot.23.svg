@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-226 415,-226 415,5 -4,5"/>
 <!-- JouaneManette -->
 <g id="node1" class="node"><title>JouaneManette</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Jouane Manette" xlink:title="Jouane Manette">
 <ellipse fill="none" stroke="black" cx="89" cy="-111" rx="89.0955" ry="18.3848"/>
 <text text-anchor="middle" x="89" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Jouane Manette</text>
+</a>
 </g>
 <!-- Sissel -->
 <g id="node2" class="node"><title>Sissel</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Sissel" xlink:title="Sissel">
 <ellipse fill="none" stroke="black" cx="231" cy="-19" rx="38.8909" ry="18.3848"/>
 <text text-anchor="middle" x="231" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Sissel</text>
+</a>
 </g>
 <!-- JouaneManette&#45;&gt;Sissel -->
 <g id="edge2" class="edge"><title>JouaneManette&#45;&gt;Sissel</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Rorik -->
 <g id="node4" class="node"><title>Rorik</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Rorik" xlink:title="Rorik">
 <ellipse fill="none" stroke="black" cx="72" cy="-19" rx="36.7696" ry="18.3848"/>
 <text text-anchor="middle" x="72" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Rorik</text>
+</a>
 </g>
 <!-- JouaneManette&#45;&gt;Rorik -->
 <g id="edge4" class="edge"><title>JouaneManette&#45;&gt;Rorik</title>
@@ -41,8 +47,10 @@
 </g>
 <!-- Lemkil -->
 <g id="node6" class="node"><title>Lemkil</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Lemkil" xlink:title="Lemkil">
 <ellipse fill="none" stroke="black" cx="273" cy="-203" rx="43.8406" ry="18.3848"/>
 <text text-anchor="middle" x="273" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Lemkil</text>
+</a>
 </g>
 <!-- Lemkil&#45;&gt;Sissel -->
 <g id="edge6" class="edge"><title>Lemkil&#45;&gt;Sissel</title>
@@ -54,8 +62,10 @@
 </g>
 <!-- Britte -->
 <g id="node8" class="node"><title>Britte</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Britte" xlink:title="Britte">
 <ellipse fill="none" stroke="black" cx="369" cy="-111" rx="39.0967" ry="18.3848"/>
 <text text-anchor="middle" x="369" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Britte</text>
+</a>
 </g>
 <!-- Lemkil&#45;&gt;Britte -->
 <g id="edge8" class="edge"><title>Lemkil&#45;&gt;Britte</title>

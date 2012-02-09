@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 402,-134 402,5 -4,5"/>
 <!-- AlainDufont -->
 <g id="node1" class="node"><title>AlainDufont</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Alain Dufont" xlink:title="Alain Dufont">
 <ellipse fill="none" stroke="black" cx="73" cy="-111" rx="73.0388" ry="18.3848"/>
 <text text-anchor="middle" x="73" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Alain Dufont</text>
+</a>
 </g>
 <!-- Muiri -->
 <g id="node2" class="node"><title>Muiri</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Muiri" xlink:title="Muiri">
 <ellipse fill="none" stroke="black" cx="89" cy="-19" rx="36.0624" ry="18.3848"/>
 <text text-anchor="middle" x="89" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Muiri</text>
+</a>
 </g>
 <!-- AlainDufont&#45;&gt;Muiri -->
 <g id="edge2" class="edge"><title>AlainDufont&#45;&gt;Muiri</title>
@@ -28,8 +32,10 @@
 </g>
 <!-- Bothela -->
 <g id="node4" class="node"><title>Bothela</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Bothela" xlink:title="Bothela">
 <ellipse fill="none" stroke="black" cx="226" cy="-111" rx="48.9975" ry="18.3848"/>
 <text text-anchor="middle" x="226" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Bothela</text>
+</a>
 </g>
 <!-- Bothela&#45;&gt;Muiri -->
 <g id="edge4" class="edge"><title>Bothela&#45;&gt;Muiri</title>
@@ -41,8 +47,10 @@
 </g>
 <!-- Odvan -->
 <g id="node6" class="node"><title>Odvan</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Odvan" xlink:title="Odvan">
 <ellipse fill="none" stroke="black" cx="240" cy="-19" rx="43.8406" ry="18.3848"/>
 <text text-anchor="middle" x="240" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Odvan</text>
+</a>
 </g>
 <!-- Bothela&#45;&gt;Odvan -->
 <g id="edge6" class="edge"><title>Bothela&#45;&gt;Odvan</title>

@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-226 335,-226 335,5 -4,5"/>
 <!-- Leigelf -->
 <g id="node1" class="node"><title>Leigelf</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Leigelf" xlink:title="Leigelf">
 <ellipse fill="none" stroke="black" cx="44" cy="-111" rx="43.8406" ry="18.3848"/>
 <text text-anchor="middle" x="44" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Leigelf</text>
+</a>
 </g>
 <!-- Fruki -->
 <g id="node2" class="node"><title>Fruki</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Fruki" xlink:title="Fruki">
 <ellipse fill="none" stroke="black" cx="44" cy="-19" rx="36.0624" ry="18.3848"/>
 <text text-anchor="middle" x="44" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Fruki</text>
+</a>
 </g>
 <!-- Leigelf&#45;&gt;Fruki -->
 <g id="edge2" class="edge"><title>Leigelf&#45;&gt;Fruki</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Beitild -->
 <g id="node4" class="node"><title>Beitild</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Beitild" xlink:title="Beitild">
 <ellipse fill="none" stroke="black" cx="117" cy="-203" rx="41.9273" ry="18.3848"/>
 <text text-anchor="middle" x="117" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Beitild</text>
+</a>
 </g>
 <!-- Beitild&#45;&gt;Leigelf -->
 <g id="edge4" class="edge"><title>Beitild&#45;&gt;Leigelf</title>
@@ -42,8 +48,10 @@
 </g>
 <!-- Irgnir -->
 <g id="node6" class="node"><title>Irgnir</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Irgnir" xlink:title="Irgnir">
 <ellipse fill="none" stroke="black" cx="150" cy="-111" rx="38.1838" ry="18.3848"/>
 <text text-anchor="middle" x="150" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Irgnir</text>
+</a>
 </g>
 <!-- Beitild&#45;&gt;Irgnir -->
 <g id="edge6" class="edge"><title>Beitild&#45;&gt;Irgnir</title>
@@ -55,8 +63,10 @@
 </g>
 <!-- Karl -->
 <g id="node8" class="node"><title>Karl</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Karl" xlink:title="Karl">
 <ellipse fill="none" stroke="black" cx="206" cy="-19" rx="31.1127" ry="18.3848"/>
 <text text-anchor="middle" x="206" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Karl</text>
+</a>
 </g>
 <!-- Beitild&#45;&gt;Karl -->
 <g id="edge8" class="edge"><title>Beitild&#45;&gt;Karl</title>

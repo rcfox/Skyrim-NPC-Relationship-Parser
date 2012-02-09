@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-338 321,-338 321,5 -4,5"/>
 <!-- Samuel -->
 <g id="node1" class="node"><title>Samuel</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Samuel" xlink:title="Samuel">
 <ellipse fill="none" stroke="black" cx="48" cy="-167" rx="48.0833" ry="18.3848"/>
 <text text-anchor="middle" x="48" y="-163.4" font-family="Times Roman,serif" font-size="14.00">Samuel</text>
+</a>
 </g>
 <!-- Runa -->
 <g id="node2" class="node"><title>Runa</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Runa Fair-Shield" xlink:title="Runa Fair&#45;Shield">
 <ellipse fill="none" stroke="black" cx="126" cy="-93" rx="90.0096" ry="18.3848"/>
 <text text-anchor="middle" x="126" y="-89.4" font-family="Times Roman,serif" font-size="14.00">Runa Fair&#45;Shield</text>
+</a>
 </g>
 <!-- Samuel&#45;&gt;Runa -->
 <g id="edge2" class="edge"><title>Samuel&#45;&gt;Runa</title>
@@ -28,8 +32,10 @@
 </g>
 <!-- Hroar -->
 <g id="node4" class="node"><title>Hroar</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Hroar" xlink:title="Hroar">
 <ellipse fill="none" stroke="black" cx="185" cy="-19" rx="39.0967" ry="18.3848"/>
 <text text-anchor="middle" x="185" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Hroar</text>
+</a>
 </g>
 <!-- Samuel&#45;&gt;Hroar -->
 <g id="edge4" class="edge"><title>Samuel&#45;&gt;Hroar</title>
@@ -47,8 +53,10 @@
 </g>
 <!-- ConstanceMichel -->
 <g id="node7" class="node"><title>ConstanceMichel</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Constance Michel" xlink:title="Constance Michel">
 <ellipse fill="none" stroke="black" cx="219" cy="-315" rx="96.8736" ry="18.3848"/>
 <text text-anchor="middle" x="219" y="-311.4" font-family="Times Roman,serif" font-size="14.00">Constance Michel</text>
+</a>
 </g>
 <!-- ConstanceMichel&#45;&gt;Samuel -->
 <g id="edge8" class="edge"><title>ConstanceMichel&#45;&gt;Samuel</title>
@@ -73,8 +81,10 @@
 </g>
 <!-- Francois -->
 <g id="node11" class="node"><title>Francois</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Francois Beaufort" xlink:title="Francois Beaufort">
 <ellipse fill="none" stroke="black" cx="157" cy="-241" rx="96.8736" ry="18.3848"/>
 <text text-anchor="middle" x="157" y="-237.4" font-family="Times Roman,serif" font-size="14.00">Francois Beaufort</text>
+</a>
 </g>
 <!-- ConstanceMichel&#45;&gt;Francois -->
 <g id="edge14" class="edge"><title>ConstanceMichel&#45;&gt;Francois</title>

@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-226 208.75,-226 208.75,5 -4,5"/>
 <!-- Vekel -->
 <g id="node1" class="node"><title>Vekel</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Vekel the Man" xlink:title="Vekel the Man">
 <ellipse fill="none" stroke="black" cx="81" cy="-111" rx="80.8184" ry="18.3848"/>
 <text text-anchor="middle" x="81" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Vekel the Man</text>
+</a>
 </g>
 <!-- Dirge -->
 <g id="node2" class="node"><title>Dirge</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Dirge" xlink:title="Dirge">
 <ellipse fill="none" stroke="black" cx="136" cy="-19" rx="38.1838" ry="18.3848"/>
 <text text-anchor="middle" x="136" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Dirge</text>
+</a>
 </g>
 <!-- Vekel&#45;&gt;Dirge -->
 <g id="edge2" class="edge"><title>Vekel&#45;&gt;Dirge</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Tonilia -->
 <g id="node4" class="node"><title>Tonilia</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Tonilia" xlink:title="Tonilia">
 <ellipse fill="none" stroke="black" cx="150" cy="-203" rx="41.9273" ry="18.3848"/>
 <text text-anchor="middle" x="150" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Tonilia</text>
+</a>
 </g>
 <!-- Tonilia&#45;&gt;Vekel -->
 <g id="edge4" class="edge"><title>Tonilia&#45;&gt;Vekel</title>

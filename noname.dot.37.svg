@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-210 163,-210 163,5 -4,5"/>
 <!-- Freir -->
 <g id="node1" class="node"><title>Freir</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Freir" xlink:title="Freir">
 <ellipse fill="none" stroke="black" cx="38" cy="-95" rx="33.9411" ry="18.3848"/>
 <text text-anchor="middle" x="38" y="-91.4" font-family="Times Roman,serif" font-size="14.00">Freir</text>
+</a>
 </g>
 <!-- SilanaPetreia -->
 <g id="node2" class="node"><title>SilanaPetreia</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Silana Petreia" xlink:title="Silana Petreia">
 <ellipse fill="none" stroke="black" cx="79" cy="-19" rx="79.196" ry="18.3848"/>
 <text text-anchor="middle" x="79" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Silana Petreia</text>
+</a>
 </g>
 <!-- Freir&#45;&gt;SilanaPetreia -->
 <g id="edge2" class="edge"><title>Freir&#45;&gt;SilanaPetreia</title>
@@ -28,8 +32,10 @@
 </g>
 <!-- Rorlund -->
 <g id="node4" class="node"><title>Rorlund</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Rorlund" xlink:title="Rorlund">
 <ellipse fill="none" stroke="black" cx="68" cy="-187" rx="48.9975" ry="18.3848"/>
 <text text-anchor="middle" x="68" y="-183.4" font-family="Times Roman,serif" font-size="14.00">Rorlund</text>
+</a>
 </g>
 <!-- Rorlund&#45;&gt;Freir -->
 <g id="edge4" class="edge"><title>Rorlund&#45;&gt;Freir</title>

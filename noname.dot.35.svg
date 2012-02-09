@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 142,-134 142,5 -4,5"/>
 <!-- Grosta -->
 <g id="node1" class="node"><title>Grosta</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Grosta" xlink:title="Grosta">
 <ellipse fill="none" stroke="black" cx="56" cy="-111" rx="44.0472" ry="18.3848"/>
 <text text-anchor="middle" x="56" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Grosta</text>
+</a>
 </g>
 <!-- Gralnach -->
 <g id="node2" class="node"><title>Gralnach</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Gralnach" xlink:title="Gralnach">
 <ellipse fill="none" stroke="black" cx="56" cy="-19" rx="55.8614" ry="18.3848"/>
 <text text-anchor="middle" x="56" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Gralnach</text>
+</a>
 </g>
 <!-- Grosta&#45;&gt;Gralnach -->
 <g id="edge2" class="edge"><title>Grosta&#45;&gt;Gralnach</title>

@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-116 185,-116 185,5 -4,5"/>
 <!-- AventusAretino -->
 <g id="node1" class="node"><title>AventusAretino</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Aventus Aretino" xlink:title="Aventus Aretino">
 <ellipse fill="none" stroke="black" cx="90" cy="-93" rx="90.0096" ry="18.3848"/>
 <text text-anchor="middle" x="90" y="-89.4" font-family="Times Roman,serif" font-size="14.00">Aventus Aretino</text>
+</a>
 </g>
 <!-- Grelod -->
 <g id="node2" class="node"><title>Grelod</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Grelod the Kind" xlink:title="Grelod the Kind">
 <ellipse fill="none" stroke="black" cx="90" cy="-19" rx="87.889" ry="18.3848"/>
 <text text-anchor="middle" x="90" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Grelod the Kind</text>
+</a>
 </g>
 <!-- AventusAretino&#45;&gt;Grelod -->
 <g id="edge2" class="edge"><title>AventusAretino&#45;&gt;Grelod</title>

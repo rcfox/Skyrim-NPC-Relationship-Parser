@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 177,-134 177,5 -4,5"/>
 <!-- SeverioPelagia -->
 <g id="node1" class="node"><title>SeverioPelagia</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Severio Pelagia" xlink:title="Severio Pelagia">
 <ellipse fill="none" stroke="black" cx="86" cy="-111" rx="85.7684" ry="18.3848"/>
 <text text-anchor="middle" x="86" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Severio Pelagia</text>
+</a>
 </g>
 <!-- Nimriel -->
 <g id="node2" class="node"><title>Nimriel</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Nimriel" xlink:title="Nimriel">
 <ellipse fill="none" stroke="black" cx="86" cy="-19" rx="45.9619" ry="18.3848"/>
 <text text-anchor="middle" x="86" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Nimriel</text>
+</a>
 </g>
 <!-- SeverioPelagia&#45;&gt;Nimriel -->
 <g id="edge2" class="edge"><title>SeverioPelagia&#45;&gt;Nimriel</title>

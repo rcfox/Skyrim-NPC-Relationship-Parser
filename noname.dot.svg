@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-190 183,-190 183,5 -4,5"/>
 <!-- BrelynaMaryon -->
 <g id="node1" class="node"><title>BrelynaMaryon</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Brelyna Maryon" xlink:title="Brelyna Maryon">
 <ellipse fill="none" stroke="black" cx="89" cy="-167" rx="89.0955" ry="18.3848"/>
 <text text-anchor="middle" x="89" y="-163.4" font-family="Times Roman,serif" font-size="14.00">Brelyna Maryon</text>
+</a>
 </g>
 <!-- Onmund -->
 <g id="node2" class="node"><title>Onmund</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Onmund" xlink:title="Onmund">
 <ellipse fill="none" stroke="black" cx="89" cy="-19" rx="53.2379" ry="18.3848"/>
 <text text-anchor="middle" x="89" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Onmund</text>
+</a>
 </g>
 <!-- BrelynaMaryon&#45;&gt;Onmund -->
 <g id="edge2" class="edge"><title>BrelynaMaryon&#45;&gt;Onmund</title>
@@ -28,8 +32,10 @@
 </g>
 <!-- Jzargo -->
 <g id="node4" class="node"><title>Jzargo</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:J&#39;zargo" xlink:title="J&#39;zargo">
 <ellipse fill="none" stroke="black" cx="125" cy="-93" rx="44.0472" ry="18.3848"/>
 <text text-anchor="middle" x="125" y="-89.4" font-family="Times Roman,serif" font-size="14.00">J&#39;zargo</text>
+</a>
 </g>
 <!-- BrelynaMaryon&#45;&gt;Jzargo -->
 <g id="edge4" class="edge"><title>BrelynaMaryon&#45;&gt;Jzargo</title>

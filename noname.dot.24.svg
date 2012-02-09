@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-318 1191.95,-318 1191.95,5 -4,5"/>
 <!-- Elgrim -->
 <g id="node1" class="node"><title>Elgrim</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Elgrim" xlink:title="Elgrim">
 <ellipse fill="none" stroke="black" cx="579.953" cy="-295" rx="41.9273" ry="18.3848"/>
 <text text-anchor="middle" x="579.953" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Elgrim</text>
+</a>
 </g>
 <!-- Hafjorg -->
 <g id="node2" class="node"><title>Hafjorg</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Hafjorg" xlink:title="Hafjorg">
 <ellipse fill="none" stroke="black" cx="542.953" cy="-203" rx="46.1672" ry="18.3848"/>
 <text text-anchor="middle" x="542.953" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Hafjorg</text>
+</a>
 </g>
 <!-- Elgrim&#45;&gt;Hafjorg -->
 <g id="edge2" class="edge"><title>Elgrim&#45;&gt;Hafjorg</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Ingun -->
 <g id="node4" class="node"><title>Ingun</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Ingun Black-Briar" xlink:title="Ingun Black&#45;Briar">
 <ellipse fill="none" stroke="black" cx="381.953" cy="-111" rx="96.1665" ry="18.3848"/>
 <text text-anchor="middle" x="381.953" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Ingun Black&#45;Briar</text>
+</a>
 </g>
 <!-- Elgrim&#45;&gt;Ingun -->
 <g id="edge4" class="edge"><title>Elgrim&#45;&gt;Ingun</title>
@@ -48,8 +54,10 @@
 </g>
 <!-- Sibbi -->
 <g id="node11" class="node"><title>Sibbi</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Sibbi Black-Briar" xlink:title="Sibbi Black&#45;Briar">
 <ellipse fill="none" stroke="black" cx="243.953" cy="-19" rx="91.2168" ry="18.3848"/>
 <text text-anchor="middle" x="243.953" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Sibbi Black&#45;Briar</text>
+</a>
 </g>
 <!-- Ingun&#45;&gt;Sibbi -->
 <g id="edge28" class="edge"><title>Ingun&#45;&gt;Sibbi</title>
@@ -61,8 +69,10 @@
 </g>
 <!-- Maven -->
 <g id="node7" class="node"><title>Maven</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Maven Black-Briar" xlink:title="Maven Black&#45;Briar">
 <ellipse fill="none" stroke="black" cx="165.953" cy="-295" rx="99.9096" ry="18.3848"/>
 <text text-anchor="middle" x="165.953" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Maven Black&#45;Briar</text>
+</a>
 </g>
 <!-- Maven&#45;&gt;Ingun -->
 <g id="edge10" class="edge"><title>Maven&#45;&gt;Ingun</title>
@@ -74,8 +84,10 @@
 </g>
 <!-- Hemming -->
 <g id="node8" class="node"><title>Hemming</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Hemming Black-Briar" xlink:title="Hemming Black&#45;Briar">
 <ellipse fill="none" stroke="black" cx="165.953" cy="-203" rx="113.844" ry="18.3848"/>
 <text text-anchor="middle" x="165.953" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Hemming Black&#45;Briar</text>
+</a>
 </g>
 <!-- Maven&#45;&gt;Hemming -->
 <g id="edge8" class="edge"><title>Maven&#45;&gt;Hemming</title>
@@ -111,13 +123,17 @@
 </g>
 <!-- Bolli -->
 <g id="node15" class="node"><title>Bolli</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Bolli" xlink:title="Bolli">
 <ellipse fill="none" stroke="black" cx="926.953" cy="-295" rx="32.0265" ry="18.3848"/>
 <text text-anchor="middle" x="926.953" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Bolli</text>
+</a>
 </g>
 <!-- Maramal -->
 <g id="node16" class="node"><title>Maramal</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Maramal" xlink:title="Maramal">
 <ellipse fill="none" stroke="black" cx="1047.95" cy="-203" rx="53.2379" ry="18.3848"/>
 <text text-anchor="middle" x="1047.95" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Maramal</text>
+</a>
 </g>
 <!-- Bolli&#45;&gt;Maramal -->
 <g id="edge18" class="edge"><title>Bolli&#45;&gt;Maramal</title>
@@ -128,8 +144,10 @@
 </g>
 <!-- TalenJei -->
 <g id="node18" class="node"><title>TalenJei</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Talen-Jei" xlink:title="Talen&#45;Jei">
 <ellipse fill="none" stroke="black" cx="805.953" cy="-203" rx="53.033" ry="18.3848"/>
 <text text-anchor="middle" x="805.953" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Talen&#45;Jei</text>
+</a>
 </g>
 <!-- Bolli&#45;&gt;TalenJei -->
 <g id="edge20" class="edge"><title>Bolli&#45;&gt;TalenJei</title>
@@ -140,8 +158,10 @@
 </g>
 <!-- Nivenor -->
 <g id="node20" class="node"><title>Nivenor</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Nivenor" xlink:title="Nivenor">
 <ellipse fill="none" stroke="black" cx="926.953" cy="-203" rx="50.2046" ry="18.3848"/>
 <text text-anchor="middle" x="926.953" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Nivenor</text>
+</a>
 </g>
 <!-- Bolli&#45;&gt;Nivenor -->
 <g id="edge22" class="edge"><title>Bolli&#45;&gt;Nivenor</title>
@@ -153,8 +173,10 @@
 </g>
 <!-- Dinya -->
 <g id="node22" class="node"><title>Dinya</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Dinya Balu" xlink:title="Dinya Balu">
 <ellipse fill="none" stroke="black" cx="1121.95" cy="-111" rx="65.0538" ry="18.3848"/>
 <text text-anchor="middle" x="1121.95" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Dinya Balu</text>
+</a>
 </g>
 <!-- Maramal&#45;&gt;Dinya -->
 <g id="edge24" class="edge"><title>Maramal&#45;&gt;Dinya</title>
@@ -166,8 +188,10 @@
 </g>
 <!-- Briehl -->
 <g id="node24" class="node"><title>Briehl</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Briehl" xlink:title="Briehl">
 <ellipse fill="none" stroke="black" cx="992.953" cy="-19" rx="39.8075" ry="18.3848"/>
 <text text-anchor="middle" x="992.953" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Briehl</text>
+</a>
 </g>
 <!-- Maramal&#45;&gt;Briehl -->
 <g id="edge26" class="edge"><title>Maramal&#45;&gt;Briehl</title>
@@ -187,13 +211,17 @@
 </g>
 <!-- Haelga -->
 <g id="node27" class="node"><title>Haelga</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Haelga" xlink:title="Haelga">
 <ellipse fill="none" stroke="black" cx="689.953" cy="-203" rx="44.7575" ry="18.3848"/>
 <text text-anchor="middle" x="689.953" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Haelga</text>
+</a>
 </g>
 <!-- Svana -->
 <g id="node28" class="node"><title>Svana</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Svana Far-Shield" xlink:title="Svana Far&#45;Shield">
 <ellipse fill="none" stroke="black" cx="587.953" cy="-111" rx="92.1303" ry="18.3848"/>
 <text text-anchor="middle" x="587.953" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Svana Far&#45;Shield</text>
+</a>
 </g>
 <!-- Haelga&#45;&gt;Svana -->
 <g id="edge30" class="edge"><title>Haelga&#45;&gt;Svana</title>
@@ -205,8 +233,10 @@
 </g>
 <!-- BrandShei -->
 <g id="node30" class="node"><title>BrandShei</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Brand-Shei" xlink:title="Brand&#45;Shei">
 <ellipse fill="none" stroke="black" cx="763.953" cy="-111" rx="65.7609" ry="18.3848"/>
 <text text-anchor="middle" x="763.953" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Brand&#45;Shei</text>
+</a>
 </g>
 <!-- Haelga&#45;&gt;BrandShei -->
 <g id="edge32" class="edge"><title>Haelga&#45;&gt;BrandShei</title>
@@ -225,8 +255,10 @@
 </g>
 <!-- Keerava -->
 <g id="node34" class="node"><title>Keerava</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Keerava" xlink:title="Keerava">
 <ellipse fill="none" stroke="black" cx="720.953" cy="-295" rx="50.9117" ry="18.3848"/>
 <text text-anchor="middle" x="720.953" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Keerava</text>
+</a>
 </g>
 <!-- Keerava&#45;&gt;TalenJei -->
 <g id="edge40" class="edge"><title>Keerava&#45;&gt;TalenJei</title>
@@ -244,8 +276,10 @@
 </g>
 <!-- Maul -->
 <g id="node37" class="node"><title>Maul</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Maul" xlink:title="Maul">
 <ellipse fill="none" stroke="black" cx="340.953" cy="-295" rx="34.8574" ry="18.3848"/>
 <text text-anchor="middle" x="340.953" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Maul</text>
+</a>
 </g>
 <!-- Maul&#45;&gt;Hemming -->
 <g id="edge42" class="edge"><title>Maul&#45;&gt;Hemming</title>

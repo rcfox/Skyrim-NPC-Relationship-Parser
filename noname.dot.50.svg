@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 90,-134 90,5 -4,5"/>
 <!-- Hert -->
 <g id="node1" class="node"><title>Hert</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Hert" xlink:title="Hert">
 <ellipse fill="none" stroke="black" cx="35" cy="-111" rx="33.234" ry="18.3848"/>
 <text text-anchor="middle" x="35" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Hert</text>
+</a>
 </g>
 <!-- Hern -->
 <g id="node2" class="node"><title>Hern</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Hern" xlink:title="Hern">
 <ellipse fill="none" stroke="black" cx="35" cy="-19" rx="34.8574" ry="18.3848"/>
 <text text-anchor="middle" x="35" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Hern</text>
+</a>
 </g>
 <!-- Hert&#45;&gt;Hern -->
 <g id="edge2" class="edge"><title>Hert&#45;&gt;Hern</title>

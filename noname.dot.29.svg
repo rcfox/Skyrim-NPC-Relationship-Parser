@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-190 763,-190 763,5 -4,5"/>
 <!-- Player -->
 <g id="node1" class="node"><title>Player</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Prisoner" xlink:title="Prisoner">
 <ellipse fill="none" stroke="black" cx="471" cy="-93" rx="51.8276" ry="18.3848"/>
 <text text-anchor="middle" x="471" y="-89.4" font-family="Times Roman,serif" font-size="14.00">Prisoner</text>
+</a>
 </g>
 <!-- DB02PlayerFriend -->
 <g id="node2" class="node"><title>DB02PlayerFriend</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Player Friend" xlink:title="Player Friend">
 <ellipse fill="none" stroke="black" cx="471" cy="-19" rx="75.1594" ry="18.3848"/>
 <text text-anchor="middle" x="471" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Player Friend</text>
+</a>
 </g>
 <!-- Player&#45;&gt;DB02PlayerFriend -->
 <g id="edge2" class="edge"><title>Player&#45;&gt;DB02PlayerFriend</title>
@@ -28,8 +32,10 @@
 </g>
 <!-- HousecarlSolitude -->
 <g id="node4" class="node"><title>HousecarlSolitude</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Jordis the Sword-Maiden" xlink:title="Jordis the Sword&#45;Maiden">
 <ellipse fill="none" stroke="black" cx="131" cy="-167" rx="130.815" ry="18.3848"/>
 <text text-anchor="middle" x="131" y="-163.4" font-family="Times Roman,serif" font-size="14.00">Jordis the Sword&#45;Maiden</text>
+</a>
 </g>
 <!-- HousecarlSolitude&#45;&gt;Player -->
 <g id="edge4" class="edge"><title>HousecarlSolitude&#45;&gt;Player</title>
@@ -40,8 +46,10 @@
 </g>
 <!-- HousecarlWhiterun -->
 <g id="node6" class="node"><title>HousecarlWhiterun</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Lydia" xlink:title="Lydia">
 <ellipse fill="none" stroke="black" cx="317" cy="-167" rx="36.7696" ry="18.3848"/>
 <text text-anchor="middle" x="317" y="-163.4" font-family="Times Roman,serif" font-size="14.00">Lydia</text>
+</a>
 </g>
 <!-- HousecarlWhiterun&#45;&gt;Player -->
 <g id="edge6" class="edge"><title>HousecarlWhiterun&#45;&gt;Player</title>
@@ -52,8 +60,10 @@
 </g>
 <!-- HousecarlMarkarth -->
 <g id="node8" class="node"><title>HousecarlMarkarth</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Argis the Bulwark" xlink:title="Argis the Bulwark">
 <ellipse fill="none" stroke="black" cx="471" cy="-167" rx="99.201" ry="18.3848"/>
 <text text-anchor="middle" x="471" y="-163.4" font-family="Times Roman,serif" font-size="14.00">Argis the Bulwark</text>
+</a>
 </g>
 <!-- HousecarlMarkarth&#45;&gt;Player -->
 <g id="edge8" class="edge"><title>HousecarlMarkarth&#45;&gt;Player</title>
@@ -64,8 +74,10 @@
 </g>
 <!-- HousecarlRiften -->
 <g id="node10" class="node"><title>HousecarlRiften</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Iona" xlink:title="Iona">
 <ellipse fill="none" stroke="black" cx="621" cy="-167" rx="33.234" ry="18.3848"/>
 <text text-anchor="middle" x="621" y="-163.4" font-family="Times Roman,serif" font-size="14.00">Iona</text>
+</a>
 </g>
 <!-- HousecarlRiften&#45;&gt;Player -->
 <g id="edge10" class="edge"><title>HousecarlRiften&#45;&gt;Player</title>
@@ -76,8 +88,10 @@
 </g>
 <!-- HousecarlWindhelm -->
 <g id="node12" class="node"><title>HousecarlWindhelm</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Calder" xlink:title="Calder">
 <ellipse fill="none" stroke="black" cx="715" cy="-167" rx="43.1335" ry="18.3848"/>
 <text text-anchor="middle" x="715" y="-163.4" font-family="Times Roman,serif" font-size="14.00">Calder</text>
+</a>
 </g>
 <!-- HousecarlWindhelm&#45;&gt;Player -->
 <g id="edge12" class="edge"><title>HousecarlWindhelm&#45;&gt;Player</title>

@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 99,-134 99,5 -4,5"/>
 <!-- POIMageBorvir -->
 <g id="node1" class="node"><title>POIMageBorvir</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Borvir" xlink:title="Borvir">
 <ellipse fill="none" stroke="black" cx="41" cy="-111" rx="41.2167" ry="18.3848"/>
 <text text-anchor="middle" x="41" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Borvir</text>
+</a>
 </g>
 <!-- POIMageRundi -->
 <g id="node2" class="node"><title>POIMageRundi</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Rundi" xlink:title="Rundi">
 <ellipse fill="none" stroke="black" cx="41" cy="-19" rx="39.0967" ry="18.3848"/>
 <text text-anchor="middle" x="41" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Rundi</text>
+</a>
 </g>
 <!-- POIMageBorvir&#45;&gt;POIMageRundi -->
 <g id="edge2" class="edge"><title>POIMageBorvir&#45;&gt;POIMageRundi</title>

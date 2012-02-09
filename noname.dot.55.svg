@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 165,-134 165,5 -4,5"/>
 <!-- Addvild -->
 <g id="node1" class="node"><title>Addvild</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Addvild" xlink:title="Addvild">
 <ellipse fill="none" stroke="black" cx="80" cy="-111" rx="46.8775" ry="18.3848"/>
 <text text-anchor="middle" x="80" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Addvild</text>
+</a>
 </g>
 <!-- LeonaraArius -->
 <g id="node2" class="node"><title>LeonaraArius</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Leonara Arius" xlink:title="Leonara Arius">
 <ellipse fill="none" stroke="black" cx="80" cy="-19" rx="79.9031" ry="18.3848"/>
 <text text-anchor="middle" x="80" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Leonara Arius</text>
+</a>
 </g>
 <!-- Addvild&#45;&gt;LeonaraArius -->
 <g id="edge2" class="edge"><title>Addvild&#45;&gt;LeonaraArius</title>

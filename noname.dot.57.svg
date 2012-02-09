@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 104,-134 104,5 -4,5"/>
 <!-- Steirod -->
 <g id="node1" class="node"><title>Steirod</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Steirod" xlink:title="Steirod">
 <ellipse fill="none" stroke="black" cx="46" cy="-111" rx="46.1672" ry="18.3848"/>
 <text text-anchor="middle" x="46" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Steirod</text>
+</a>
 </g>
 <!-- Trilf -->
 <g id="node2" class="node"><title>Trilf</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Trilf" xlink:title="Trilf">
 <ellipse fill="none" stroke="black" cx="46" cy="-19" rx="28.9914" ry="18.3848"/>
 <text text-anchor="middle" x="46" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Trilf</text>
+</a>
 </g>
 <!-- Steirod&#45;&gt;Trilf -->
 <g id="edge2" class="edge"><title>Steirod&#45;&gt;Trilf</title>

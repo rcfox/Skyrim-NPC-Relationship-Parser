@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 229,-134 229,5 -4,5"/>
 <!-- Oengul -->
 <g id="node1" class="node"><title>Oengul</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Oengul War-Anvil" xlink:title="Oengul War&#45;Anvil">
 <ellipse fill="none" stroke="black" cx="112" cy="-111" rx="97.0803" ry="18.3848"/>
 <text text-anchor="middle" x="112" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Oengul War&#45;Anvil</text>
+</a>
 </g>
 <!-- Hermir -->
 <g id="node2" class="node"><title>Hermir</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Hermir Strong-Heart" xlink:title="Hermir Strong&#45;Heart">
 <ellipse fill="none" stroke="black" cx="112" cy="-19" rx="111.93" ry="18.3848"/>
 <text text-anchor="middle" x="112" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Hermir Strong&#45;Heart</text>
+</a>
 </g>
 <!-- Oengul&#45;&gt;Hermir -->
 <g id="edge2" class="edge"><title>Oengul&#45;&gt;Hermir</title>

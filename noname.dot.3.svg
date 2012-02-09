@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-686 2602,-686 2602,5 -4,5"/>
 <!-- Murbul -->
 <g id="node1" class="node"><title>Murbul</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Murbul" xlink:title="Murbul">
 <ellipse fill="none" stroke="black" cx="937" cy="-663" rx="45.9619" ry="18.3848"/>
 <text text-anchor="middle" x="937" y="-659.4" font-family="Times Roman,serif" font-size="14.00">Murbul</text>
+</a>
 </g>
 <!-- Oglub -->
 <g id="node2" class="node"><title>Oglub</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Oglub" xlink:title="Oglub">
 <ellipse fill="none" stroke="black" cx="1042" cy="-571" rx="39.8075" ry="18.3848"/>
 <text text-anchor="middle" x="1042" y="-567.4" font-family="Times Roman,serif" font-size="14.00">Oglub</text>
+</a>
 </g>
 <!-- Murbul&#45;&gt;Oglub -->
 <g id="edge2" class="edge"><title>Murbul&#45;&gt;Oglub</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Burguk -->
 <g id="node4" class="node"><title>Burguk</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Chief Burguk" xlink:title="Chief Burguk">
 <ellipse fill="none" stroke="black" cx="1063" cy="-387" rx="75.1594" ry="18.3848"/>
 <text text-anchor="middle" x="1063" y="-383.4" font-family="Times Roman,serif" font-size="14.00">Chief Burguk</text>
+</a>
 </g>
 <!-- Murbul&#45;&gt;Burguk -->
 <g id="edge4" class="edge"><title>Murbul&#45;&gt;Burguk</title>
@@ -42,8 +48,10 @@
 </g>
 <!-- Nagrub -->
 <g id="node6" class="node"><title>Nagrub</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Nagrub" xlink:title="Nagrub">
 <ellipse fill="none" stroke="black" cx="623" cy="-203" rx="46.8775" ry="18.3848"/>
 <text text-anchor="middle" x="623" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Nagrub</text>
+</a>
 </g>
 <!-- Murbul&#45;&gt;Nagrub -->
 <g id="edge6" class="edge"><title>Murbul&#45;&gt;Nagrub</title>
@@ -55,8 +63,10 @@
 </g>
 <!-- Ghorbash -->
 <g id="node8" class="node"><title>Ghorbash</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Ghorbash the Iron Hand" xlink:title="Ghorbash the Iron Hand">
 <ellipse fill="none" stroke="black" cx="889" cy="-479" rx="130.108" ry="18.3848"/>
 <text text-anchor="middle" x="889" y="-475.4" font-family="Times Roman,serif" font-size="14.00">Ghorbash the Iron Hand</text>
+</a>
 </g>
 <!-- Murbul&#45;&gt;Ghorbash -->
 <g id="edge8" class="edge"><title>Murbul&#45;&gt;Ghorbash</title>
@@ -68,8 +78,10 @@
 </g>
 <!-- Umurn -->
 <g id="node10" class="node"><title>Umurn</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Umurn" xlink:title="Umurn">
 <ellipse fill="none" stroke="black" cx="1197" cy="-203" rx="44.7575" ry="18.3848"/>
 <text text-anchor="middle" x="1197" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Umurn</text>
+</a>
 </g>
 <!-- Murbul&#45;&gt;Umurn -->
 <g id="edge10" class="edge"><title>Murbul&#45;&gt;Umurn</title>
@@ -81,8 +93,10 @@
 </g>
 <!-- Shel -->
 <g id="node12" class="node"><title>Shel</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Shel" xlink:title="Shel">
 <ellipse fill="none" stroke="black" cx="598" cy="-295" rx="33.234" ry="18.3848"/>
 <text text-anchor="middle" x="598" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Shel</text>
+</a>
 </g>
 <!-- Murbul&#45;&gt;Shel -->
 <g id="edge12" class="edge"><title>Murbul&#45;&gt;Shel</title>
@@ -94,8 +108,10 @@
 </g>
 <!-- Gharol -->
 <g id="node14" class="node"><title>Gharol</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Gharol" xlink:title="Gharol">
 <ellipse fill="none" stroke="black" cx="1337" cy="-295" rx="44.0472" ry="18.3848"/>
 <text text-anchor="middle" x="1337" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Gharol</text>
+</a>
 </g>
 <!-- Murbul&#45;&gt;Gharol -->
 <g id="edge14" class="edge"><title>Murbul&#45;&gt;Gharol</title>
@@ -107,8 +123,10 @@
 </g>
 <!-- Arob -->
 <g id="node16" class="node"><title>Arob</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Arob" xlink:title="Arob">
 <ellipse fill="none" stroke="black" cx="789" cy="-295" rx="34.1461" ry="18.3848"/>
 <text text-anchor="middle" x="789" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Arob</text>
+</a>
 </g>
 <!-- Murbul&#45;&gt;Arob -->
 <g id="edge16" class="edge"><title>Murbul&#45;&gt;Arob</title>
@@ -200,8 +218,10 @@
 </g>
 <!-- Lurbuk -->
 <g id="node25" class="node"><title>Lurbuk</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Lurbuk" xlink:title="Lurbuk">
 <ellipse fill="none" stroke="black" cx="1011" cy="-295" rx="45.9619" ry="18.3848"/>
 <text text-anchor="middle" x="1011" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Lurbuk</text>
+</a>
 </g>
 <!-- Burguk&#45;&gt;Lurbuk -->
 <g id="edge32" class="edge"><title>Burguk&#45;&gt;Lurbuk</title>
@@ -293,8 +313,10 @@
 </g>
 <!-- LashGraDushnikh -->
 <g id="node45" class="node"><title>LashGraDushnikh</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Lash gra-Dushnikh" xlink:title="Lash gra&#45;Dushnikh">
 <ellipse fill="none" stroke="black" cx="1536" cy="-203" rx="103.945" ry="18.3848"/>
 <text text-anchor="middle" x="1536" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Lash gra&#45;Dushnikh</text>
+</a>
 </g>
 <!-- Gharol&#45;&gt;LashGraDushnikh -->
 <g id="edge64" class="edge"><title>Gharol&#45;&gt;LashGraDushnikh</title>
@@ -322,13 +344,17 @@
 </g>
 <!-- Enmon -->
 <g id="node30" class="node"><title>Enmon</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Enmon" xlink:title="Enmon">
 <ellipse fill="none" stroke="black" cx="1914" cy="-203" rx="45.9619" ry="18.3848"/>
 <text text-anchor="middle" x="1914" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Enmon</text>
+</a>
 </g>
 <!-- Fjotra -->
 <g id="node31" class="node"><title>Fjotra</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Fjotra" xlink:title="Fjotra">
 <ellipse fill="none" stroke="black" cx="1930" cy="-19" rx="39.8075" ry="18.3848"/>
 <text text-anchor="middle" x="1930" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Fjotra</text>
+</a>
 </g>
 <!-- Enmon&#45;&gt;Fjotra -->
 <g id="edge40" class="edge"><title>Enmon&#45;&gt;Fjotra</title>
@@ -340,8 +366,10 @@
 </g>
 <!-- Mena -->
 <g id="node33" class="node"><title>Mena</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Mena" xlink:title="Mena">
 <ellipse fill="none" stroke="black" cx="2025" cy="-111" rx="38.1838" ry="18.3848"/>
 <text text-anchor="middle" x="2025" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Mena</text>
+</a>
 </g>
 <!-- Enmon&#45;&gt;Mena -->
 <g id="edge42" class="edge"><title>Enmon&#45;&gt;Mena</title>
@@ -361,8 +389,10 @@
 </g>
 <!-- Ainethach -->
 <g id="node49" class="node"><title>Ainethach</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Ainethach" xlink:title="Ainethach">
 <ellipse fill="none" stroke="black" cx="2025" cy="-295" rx="60.8112" ry="18.3848"/>
 <text text-anchor="middle" x="2025" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Ainethach</text>
+</a>
 </g>
 <!-- Ainethach&#45;&gt;Enmon -->
 <g id="edge70" class="edge"><title>Ainethach&#45;&gt;Enmon</title>
@@ -390,8 +420,10 @@
 </g>
 <!-- Belchimac -->
 <g id="node53" class="node"><title>Belchimac</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Belchimac" xlink:title="Belchimac">
 <ellipse fill="none" stroke="black" cx="1789" cy="-203" rx="60.8112" ry="18.3848"/>
 <text text-anchor="middle" x="1789" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Belchimac</text>
+</a>
 </g>
 <!-- Ainethach&#45;&gt;Belchimac -->
 <g id="edge76" class="edge"><title>Ainethach&#45;&gt;Belchimac</title>
@@ -403,8 +435,10 @@
 </g>
 <!-- Rondach -->
 <g id="node55" class="node"><title>Rondach</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Rondach" xlink:title="Rondach">
 <ellipse fill="none" stroke="black" cx="2544" cy="-203" rx="53.033" ry="18.3848"/>
 <text text-anchor="middle" x="2544" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Rondach</text>
+</a>
 </g>
 <!-- Ainethach&#45;&gt;Rondach -->
 <g id="edge78" class="edge"><title>Ainethach&#45;&gt;Rondach</title>
@@ -416,8 +450,10 @@
 </g>
 <!-- Voada -->
 <g id="node57" class="node"><title>Voada</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Voada" xlink:title="Voada">
 <ellipse fill="none" stroke="black" cx="2421" cy="-111" rx="41.2167" ry="18.3848"/>
 <text text-anchor="middle" x="2421" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Voada</text>
+</a>
 </g>
 <!-- Ainethach&#45;&gt;Voada -->
 <g id="edge80" class="edge"><title>Ainethach&#45;&gt;Voada</title>
@@ -429,8 +465,10 @@
 </g>
 <!-- Ragnar -->
 <g id="node59" class="node"><title>Ragnar</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Ragnar" xlink:title="Ragnar">
 <ellipse fill="none" stroke="black" cx="2188" cy="-203" rx="46.1672" ry="18.3848"/>
 <text text-anchor="middle" x="2188" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Ragnar</text>
+</a>
 </g>
 <!-- Ainethach&#45;&gt;Ragnar -->
 <g id="edge82" class="edge"><title>Ainethach&#45;&gt;Ragnar</title>
@@ -450,8 +488,10 @@
 </g>
 <!-- Banning -->
 <g id="node63" class="node"><title>Banning</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Banning" xlink:title="Banning">
 <ellipse fill="none" stroke="black" cx="2421" cy="-203" rx="51.8276" ry="18.3848"/>
 <text text-anchor="middle" x="2421" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Banning</text>
+</a>
 </g>
 <!-- Banning&#45;&gt;Voada -->
 <g id="edge88" class="edge"><title>Banning&#45;&gt;Voada</title>

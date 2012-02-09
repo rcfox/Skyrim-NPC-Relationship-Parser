@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-410 1146.83,-410 1146.83,5 -4,5"/>
 <!-- Larak -->
 <g id="node1" class="node"><title>Larak</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Chief Larak" xlink:title="Chief Larak">
 <ellipse fill="none" stroke="black" cx="291.83" cy="-295" rx="67.1751" ry="18.3848"/>
 <text text-anchor="middle" x="291.83" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Chief Larak</text>
+</a>
 </g>
 <!-- Shuftharz -->
 <g id="node2" class="node"><title>Shuftharz</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Shuftharz" xlink:title="Shuftharz">
 <ellipse fill="none" stroke="black" cx="325.83" cy="-203" rx="60.8112" ry="18.3848"/>
 <text text-anchor="middle" x="325.83" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Shuftharz</text>
+</a>
 </g>
 <!-- Larak&#45;&gt;Shuftharz -->
 <g id="edge2" class="edge"><title>Larak&#45;&gt;Shuftharz</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Olur -->
 <g id="node4" class="node"><title>Olur</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Olur" xlink:title="Olur">
 <ellipse fill="none" stroke="black" cx="309.83" cy="-19" rx="33.234" ry="18.3848"/>
 <text text-anchor="middle" x="309.83" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Olur</text>
+</a>
 </g>
 <!-- Larak&#45;&gt;Olur -->
 <g id="edge4" class="edge"><title>Larak&#45;&gt;Olur</title>
@@ -42,8 +48,10 @@
 </g>
 <!-- Borgakh -->
 <g id="node6" class="node"><title>Borgakh</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Borgakh the Steel Heart" xlink:title="Borgakh the Steel Heart">
 <ellipse fill="none" stroke="black" cx="539.83" cy="-111" rx="130.815" ry="18.3848"/>
 <text text-anchor="middle" x="539.83" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Borgakh the Steel Heart</text>
+</a>
 </g>
 <!-- Larak&#45;&gt;Borgakh -->
 <g id="edge6" class="edge"><title>Larak&#45;&gt;Borgakh</title>
@@ -55,8 +63,10 @@
 </g>
 <!-- Bagrak -->
 <g id="node8" class="node"><title>Bagrak</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Bagrak" xlink:title="Bagrak">
 <ellipse fill="none" stroke="black" cx="182.83" cy="-203" rx="45.9619" ry="18.3848"/>
 <text text-anchor="middle" x="182.83" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Bagrak</text>
+</a>
 </g>
 <!-- Larak&#45;&gt;Bagrak -->
 <g id="edge8" class="edge"><title>Larak&#45;&gt;Bagrak</title>
@@ -108,8 +118,10 @@
 </g>
 <!-- Sharamph -->
 <g id="node12" class="node"><title>Sharamph</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Sharamph" xlink:title="Sharamph">
 <ellipse fill="none" stroke="black" cx="412.83" cy="-387" rx="61.0181" ry="18.3848"/>
 <text text-anchor="middle" x="412.83" y="-383.4" font-family="Times Roman,serif" font-size="14.00">Sharamph</text>
+</a>
 </g>
 <!-- Sharamph&#45;&gt;Larak -->
 <g id="edge14" class="edge"><title>Sharamph&#45;&gt;Larak</title>

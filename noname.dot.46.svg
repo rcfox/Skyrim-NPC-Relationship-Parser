@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 199,-134 199,5 -4,5"/>
 <!-- TembaWideArm -->
 <g id="node1" class="node"><title>TembaWideArm</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Temba Wide-Arm" xlink:title="Temba Wide&#45;Arm">
 <ellipse fill="none" stroke="black" cx="95" cy="-111" rx="94.7523" ry="18.3848"/>
 <text text-anchor="middle" x="95" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Temba Wide&#45;Arm</text>
+</a>
 </g>
 <!-- Gwilin -->
 <g id="node2" class="node"><title>Gwilin</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Gwilin" xlink:title="Gwilin">
 <ellipse fill="none" stroke="black" cx="95" cy="-19" rx="43.1335" ry="18.3848"/>
 <text text-anchor="middle" x="95" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Gwilin</text>
+</a>
 </g>
 <!-- TembaWideArm&#45;&gt;Gwilin -->
 <g id="edge2" class="edge"><title>TembaWideArm&#45;&gt;Gwilin</title>

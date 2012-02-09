@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 173,-134 173,5 -4,5"/>
 <!-- AduriSarethi -->
 <g id="node1" class="node"><title>AduriSarethi</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Aduri Sarethi" xlink:title="Aduri Sarethi">
 <ellipse fill="none" stroke="black" cx="84" cy="-111" rx="75.8684" ry="18.3848"/>
 <text text-anchor="middle" x="84" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Aduri Sarethi</text>
+</a>
 </g>
 <!-- AvrusaSarethi -->
 <g id="node2" class="node"><title>AvrusaSarethi</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Avrusa Sarethi" xlink:title="Avrusa Sarethi">
 <ellipse fill="none" stroke="black" cx="84" cy="-19" rx="84.1457" ry="18.3848"/>
 <text text-anchor="middle" x="84" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Avrusa Sarethi</text>
+</a>
 </g>
 <!-- AduriSarethi&#45;&gt;AvrusaSarethi -->
 <g id="edge2" class="edge"><title>AduriSarethi&#45;&gt;AvrusaSarethi</title>

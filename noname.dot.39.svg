@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 243,-134 243,5 -4,5"/>
 <!-- Hofgrir -->
 <g id="node1" class="node"><title>Hofgrir</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Hofgrir Horse-Crusher" xlink:title="Hofgrir Horse&#45;Crusher">
 <ellipse fill="none" stroke="black" cx="119" cy="-111" rx="118.794" ry="18.3848"/>
 <text text-anchor="middle" x="119" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Hofgrir Horse&#45;Crusher</text>
+</a>
 </g>
 <!-- Shadr -->
 <g id="node2" class="node"><title>Shadr</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Shadr" xlink:title="Shadr">
 <ellipse fill="none" stroke="black" cx="119" cy="-19" rx="39.8075" ry="18.3848"/>
 <text text-anchor="middle" x="119" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Shadr</text>
+</a>
 </g>
 <!-- Hofgrir&#45;&gt;Shadr -->
 <g id="edge2" class="edge"><title>Hofgrir&#45;&gt;Shadr</title>

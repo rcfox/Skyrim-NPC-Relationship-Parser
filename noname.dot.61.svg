@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-116 189,-116 189,5 -4,5"/>
 <!-- Mjoll -->
 <g id="node1" class="node"><title>Mjoll</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Mjoll the Lioness" xlink:title="Mjoll the Lioness">
 <ellipse fill="none" stroke="black" cx="92" cy="-93" rx="92.1303" ry="18.3848"/>
 <text text-anchor="middle" x="92" y="-89.4" font-family="Times Roman,serif" font-size="14.00">Mjoll the Lioness</text>
+</a>
 </g>
 <!-- Aerin -->
 <g id="node2" class="node"><title>Aerin</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Aerin" xlink:title="Aerin">
 <ellipse fill="none" stroke="black" cx="92" cy="-19" rx="36.977" ry="18.3848"/>
 <text text-anchor="middle" x="92" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Aerin</text>
+</a>
 </g>
 <!-- Mjoll&#45;&gt;Aerin -->
 <g id="edge2" class="edge"><title>Mjoll&#45;&gt;Aerin</title>

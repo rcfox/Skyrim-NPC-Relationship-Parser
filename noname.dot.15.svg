@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-210 193,-210 193,5 -4,5"/>
 <!-- Elrindir -->
 <g id="node1" class="node"><title>Elrindir</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Elrindir" xlink:title="Elrindir">
 <ellipse fill="none" stroke="black" cx="94" cy="-95" rx="46.1672" ry="18.3848"/>
 <text text-anchor="middle" x="94" y="-91.4" font-family="Times Roman,serif" font-size="14.00">Elrindir</text>
+</a>
 </g>
 <!-- OlavatheFeeble -->
 <g id="node2" class="node"><title>OlavatheFeeble</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Olava the Feeble" xlink:title="Olava the Feeble">
 <ellipse fill="none" stroke="black" cx="94" cy="-19" rx="94.0452" ry="18.3848"/>
 <text text-anchor="middle" x="94" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Olava the Feeble</text>
+</a>
 </g>
 <!-- Elrindir&#45;&gt;OlavatheFeeble -->
 <g id="edge2" class="edge"><title>Elrindir&#45;&gt;OlavatheFeeble</title>
@@ -28,8 +32,10 @@
 </g>
 <!-- Anoriath -->
 <g id="node4" class="node"><title>Anoriath</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Anoriath" xlink:title="Anoriath">
 <ellipse fill="none" stroke="black" cx="94" cy="-187" rx="53.9477" ry="18.3848"/>
 <text text-anchor="middle" x="94" y="-183.4" font-family="Times Roman,serif" font-size="14.00">Anoriath</text>
+</a>
 </g>
 <!-- Anoriath&#45;&gt;Elrindir -->
 <g id="edge4" class="edge"><title>Anoriath&#45;&gt;Elrindir</title>

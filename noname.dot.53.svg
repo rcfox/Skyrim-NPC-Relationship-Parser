@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 135,-134 135,5 -4,5"/>
 <!-- Thoring -->
 <g id="node1" class="node"><title>Thoring</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Thoring" xlink:title="Thoring">
 <ellipse fill="none" stroke="black" cx="49" cy="-111" rx="48.9975" ry="18.3848"/>
 <text text-anchor="middle" x="49" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Thoring</text>
+</a>
 </g>
 <!-- Karita -->
 <g id="node2" class="node"><title>Karita</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Karita" xlink:title="Karita">
 <ellipse fill="none" stroke="black" cx="49" cy="-19" rx="41.0122" ry="18.3848"/>
 <text text-anchor="middle" x="49" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Karita</text>
+</a>
 </g>
 <!-- Thoring&#45;&gt;Karita -->
 <g id="edge2" class="edge"><title>Thoring&#45;&gt;Karita</title>

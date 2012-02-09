@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 173,-134 173,5 -4,5"/>
 <!-- Curwe -->
 <g id="node1" class="node"><title>Curwe</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Curwe" xlink:title="Curwe">
 <ellipse fill="none" stroke="black" cx="84" cy="-111" rx="43.8406" ry="18.3848"/>
 <text text-anchor="middle" x="84" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Curwe</text>
+</a>
 </g>
 <!-- VantusLoreius -->
 <g id="node2" class="node"><title>VantusLoreius</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Vantus Loreius" xlink:title="Vantus Loreius">
 <ellipse fill="none" stroke="black" cx="84" cy="-19" rx="84.1457" ry="18.3848"/>
 <text text-anchor="middle" x="84" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Vantus Loreius</text>
+</a>
 </g>
 <!-- Curwe&#45;&gt;VantusLoreius -->
 <g id="edge2" class="edge"><title>Curwe&#45;&gt;VantusLoreius</title>

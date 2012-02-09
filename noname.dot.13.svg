@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-410 531.758,-410 531.758,5 -4,5"/>
 <!-- Mauhulakh -->
 <g id="node1" class="node"><title>Mauhulakh</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Chief Mauhulakh" xlink:title="Chief Mauhulakh">
 <ellipse fill="none" stroke="black" cx="243.758" cy="-203" rx="94.0452" ry="18.3848"/>
 <text text-anchor="middle" x="243.758" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Chief Mauhulakh</text>
+</a>
 </g>
 <!-- Urog -->
 <g id="node2" class="node"><title>Urog</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Urog" xlink:title="Urog">
 <ellipse fill="none" stroke="black" cx="243.758" cy="-111" rx="34.8574" ry="18.3848"/>
 <text text-anchor="middle" x="243.758" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Urog</text>
+</a>
 </g>
 <!-- Mauhulakh&#45;&gt;Urog -->
 <g id="edge2" class="edge"><title>Mauhulakh&#45;&gt;Urog</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Dushnamub -->
 <g id="node4" class="node"><title>Dushnamub</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Dushnamub" xlink:title="Dushnamub">
 <ellipse fill="none" stroke="black" cx="243.758" cy="-19" rx="70.2092" ry="18.3848"/>
 <text text-anchor="middle" x="243.758" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Dushnamub</text>
+</a>
 </g>
 <!-- Urog&#45;&gt;Dushnamub -->
 <g id="edge4" class="edge"><title>Urog&#45;&gt;Dushnamub</title>
@@ -42,8 +48,10 @@
 </g>
 <!-- Bolar -->
 <g id="node6" class="node"><title>Bolar</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Bolar" xlink:title="Bolar">
 <ellipse fill="none" stroke="black" cx="91.7581" cy="-295" rx="36.977" ry="18.3848"/>
 <text text-anchor="middle" x="91.7581" y="-291.4" font-family="Times Roman,serif" font-size="14.00">Bolar</text>
+</a>
 </g>
 <!-- Bolar&#45;&gt;Mauhulakh -->
 <g id="edge6" class="edge"><title>Bolar&#45;&gt;Mauhulakh</title>
@@ -71,8 +79,10 @@
 </g>
 <!-- Yatul -->
 <g id="node10" class="node"><title>Yatul</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Yatul" xlink:title="Yatul">
 <ellipse fill="none" stroke="black" cx="309.758" cy="-387" rx="34.8574" ry="18.3848"/>
 <text text-anchor="middle" x="309.758" y="-383.4" font-family="Times Roman,serif" font-size="14.00">Yatul</text>
+</a>
 </g>
 <!-- Yatul&#45;&gt;Mauhulakh -->
 <g id="edge12" class="edge"><title>Yatul&#45;&gt;Mauhulakh</title>

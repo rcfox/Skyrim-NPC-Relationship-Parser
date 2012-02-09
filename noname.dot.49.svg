@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 231,-134 231,5 -4,5"/>
 <!-- Hjorunn -->
 <g id="node1" class="node"><title>Hjorunn</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Hjorunn" xlink:title="Hjorunn">
 <ellipse fill="none" stroke="black" cx="107" cy="-111" rx="50.9117" ry="18.3848"/>
 <text text-anchor="middle" x="107" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Hjorunn</text>
+</a>
 </g>
 <!-- KharagGroShurkul -->
 <g id="node2" class="node"><title>KharagGroShurkul</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Kharag gro-Shurkul" xlink:title="Kharag gro&#45;Shurkul">
 <ellipse fill="none" stroke="black" cx="107" cy="-19" rx="106.773" ry="18.3848"/>
 <text text-anchor="middle" x="107" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Kharag gro&#45;Shurkul</text>
+</a>
 </g>
 <!-- Hjorunn&#45;&gt;KharagGroShurkul -->
 <g id="edge2" class="edge"><title>Hjorunn&#45;&gt;KharagGroShurkul</title>

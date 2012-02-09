@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-116 143,-116 143,5 -4,5"/>
 <!-- Shahvee -->
 <g id="node1" class="node"><title>Shahvee</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Shahvee" xlink:title="Shahvee">
 <ellipse fill="none" stroke="black" cx="69" cy="-93" rx="53.9477" ry="18.3848"/>
 <text text-anchor="middle" x="69" y="-89.4" font-family="Times Roman,serif" font-size="14.00">Shahvee</text>
+</a>
 </g>
 <!-- Neetrenaza -->
 <g id="node2" class="node"><title>Neetrenaza</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Neetrenaza" xlink:title="Neetrenaza">
 <ellipse fill="none" stroke="black" cx="69" cy="-19" rx="68.7979" ry="18.3848"/>
 <text text-anchor="middle" x="69" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Neetrenaza</text>
+</a>
 </g>
 <!-- Shahvee&#45;&gt;Neetrenaza -->
 <g id="edge2" class="edge"><title>Shahvee&#45;&gt;Neetrenaza</title>

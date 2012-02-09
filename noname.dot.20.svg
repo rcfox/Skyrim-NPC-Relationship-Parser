@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 375,-134 375,5 -4,5"/>
 <!-- Falion -->
 <g id="node1" class="node"><title>Falion</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Falion" xlink:title="Falion">
 <ellipse fill="none" stroke="black" cx="123" cy="-111" rx="39.0967" ry="18.3848"/>
 <text text-anchor="middle" x="123" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Falion</text>
+</a>
 </g>
 <!-- Jonna -->
 <g id="node2" class="node"><title>Jonna</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Jonna" xlink:title="Jonna">
 <ellipse fill="none" stroke="black" cx="123" cy="-19" rx="39.0967" ry="18.3848"/>
 <text text-anchor="middle" x="123" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Jonna</text>
+</a>
 </g>
 <!-- Falion&#45;&gt;Jonna -->
 <g id="edge2" class="edge"><title>Falion&#45;&gt;Jonna</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Lami -->
 <g id="node4" class="node"><title>Lami</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Lami" xlink:title="Lami">
 <ellipse fill="none" stroke="black" cx="215" cy="-19" rx="34.8574" ry="18.3848"/>
 <text text-anchor="middle" x="215" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Lami</text>
+</a>
 </g>
 <!-- Falion&#45;&gt;Lami -->
 <g id="edge4" class="edge"><title>Falion&#45;&gt;Lami</title>
@@ -41,8 +47,10 @@
 </g>
 <!-- Agni -->
 <g id="node6" class="node"><title>Agni</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Agni" xlink:title="Agni">
 <ellipse fill="none" stroke="black" cx="33" cy="-19" rx="33.234" ry="18.3848"/>
 <text text-anchor="middle" x="33" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Agni</text>
+</a>
 </g>
 <!-- Falion&#45;&gt;Agni -->
 <g id="edge6" class="edge"><title>Falion&#45;&gt;Agni</title>
@@ -53,8 +61,10 @@
 </g>
 <!-- Alva -->
 <g id="node8" class="node"><title>Alva</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Alva" xlink:title="Alva">
 <ellipse fill="none" stroke="black" cx="290" cy="-111" rx="33.234" ry="18.3848"/>
 <text text-anchor="middle" x="290" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Alva</text>
+</a>
 </g>
 <!-- Alva&#45;&gt;Lami -->
 <g id="edge8" class="edge"><title>Alva&#45;&gt;Lami</title>
@@ -65,8 +75,10 @@
 </g>
 <!-- Hroggar -->
 <g id="node10" class="node"><title>Hroggar</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Hroggar" xlink:title="Hroggar">
 <ellipse fill="none" stroke="black" cx="319" cy="-19" rx="50.9117" ry="18.3848"/>
 <text text-anchor="middle" x="319" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Hroggar</text>
+</a>
 </g>
 <!-- Alva&#45;&gt;Hroggar -->
 <g id="edge10" class="edge"><title>Alva&#45;&gt;Hroggar</title>

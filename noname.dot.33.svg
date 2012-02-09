@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-134 307,-134 307,5 -4,5"/>
 <!-- VignarGrayMane -->
 <g id="node1" class="node"><title>VignarGrayMane</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Vignar Gray-Mane" xlink:title="Vignar Gray&#45;Mane">
 <ellipse fill="none" stroke="black" cx="176" cy="-111" rx="101.116" ry="18.3848"/>
 <text text-anchor="middle" x="176" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Vignar Gray&#45;Mane</text>
+</a>
 </g>
 <!-- Tilma -->
 <g id="node2" class="node"><title>Tilma</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Tilma the Haggard" xlink:title="Tilma the Haggard">
 <ellipse fill="none" stroke="black" cx="101" cy="-19" rx="101.116" ry="18.3848"/>
 <text text-anchor="middle" x="101" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Tilma the Haggard</text>
+</a>
 </g>
 <!-- VignarGrayMane&#45;&gt;Tilma -->
 <g id="edge2" class="edge"><title>VignarGrayMane&#45;&gt;Tilma</title>
@@ -28,8 +32,10 @@
 </g>
 <!-- Brill -->
 <g id="node4" class="node"><title>Brill</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Brill" xlink:title="Brill">
 <ellipse fill="none" stroke="black" cx="251" cy="-19" rx="31.1127" ry="18.3848"/>
 <text text-anchor="middle" x="251" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Brill</text>
+</a>
 </g>
 <!-- VignarGrayMane&#45;&gt;Brill -->
 <g id="edge4" class="edge"><title>VignarGrayMane&#45;&gt;Brill</title>

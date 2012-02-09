@@ -11,13 +11,17 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-226 293,-226 293,5 -4,5"/>
 <!-- Rogatus -->
 <g id="node1" class="node"><title>Rogatus</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Rogatus Salvius" xlink:title="Rogatus Salvius">
 <ellipse fill="none" stroke="black" cx="88" cy="-111" rx="87.889" ry="18.3848"/>
 <text text-anchor="middle" x="88" y="-107.4" font-family="Times Roman,serif" font-size="14.00">Rogatus Salvius</text>
+</a>
 </g>
 <!-- LeontiusSalvius -->
 <g id="node2" class="node"><title>LeontiusSalvius</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Leontius Salvius" xlink:title="Leontius Salvius">
 <ellipse fill="none" stroke="black" cx="157" cy="-19" rx="91.2168" ry="18.3848"/>
 <text text-anchor="middle" x="157" y="-15.4" font-family="Times Roman,serif" font-size="14.00">Leontius Salvius</text>
+</a>
 </g>
 <!-- Rogatus&#45;&gt;LeontiusSalvius -->
 <g id="edge2" class="edge"><title>Rogatus&#45;&gt;LeontiusSalvius</title>
@@ -29,8 +33,10 @@
 </g>
 <!-- Vigdis -->
 <g id="node4" class="node"><title>Vigdis</title>
+<a xlink:href="http://www.uesp.net/wiki/Skyrim:Vigdis Salvius" xlink:title="Vigdis Salvius">
 <ellipse fill="none" stroke="black" cx="165" cy="-203" rx="77.7817" ry="18.3848"/>
 <text text-anchor="middle" x="165" y="-199.4" font-family="Times Roman,serif" font-size="14.00">Vigdis Salvius</text>
+</a>
 </g>
 <!-- Vigdis&#45;&gt;Rogatus -->
 <g id="edge4" class="edge"><title>Vigdis&#45;&gt;Rogatus</title>
