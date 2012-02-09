@@ -47,9 +47,10 @@ for my $relid (keys %relationships) {
 	my $type = $relationships{$relid}{type};
 	my $level = $relationships{$relid}{level};
 	my $colour = $relationship_colours{$level};
+	my $url = "http://www.uesp.net/wiki/Skyrim:";
 
-	print "$alias1 [label=\"$name1\"];\n";
-	print "$alias2 [label=\"$name2\"];\n";
+	print "$alias1 [label=\"$name1\" URL=\"$url$name1\"];\n";
+	print "$alias2 [label=\"$name2\" URL=\"$url$name2\"];\n";
 
 	my $edge = "[label=\"$type\" color=\"$colour\" edgetooltip=\"$name1 -> $name2 ($type, $level)\"]";
 	$edge = "[color=\"$colour\" edgetooltip=\"$name1 -> $name2 ($level)\"]" if ($type ~~ "NONE");
