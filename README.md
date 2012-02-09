@@ -17,9 +17,10 @@ Or, try: ./relationships.pl names.txt relationships.txt | dot -Tsvg > relationsh
 ## How To Harvest Your Own Data
 
 In the Skyrim Creation Kit:
+
 * Names:
-** File -> Export -> Names
+  * File -> Export -> Names
 * Relationships:
-** Character -> Export Relationship Data
+  * Character -> Export Relationship Data
 
 (You might need to convert to Unix line endings. I did.)
